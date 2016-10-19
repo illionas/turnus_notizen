@@ -1,14 +1,16 @@
 # Adipositas
 
+Fettleibigkeit
+
 ## Body-Mass Index
 
-	BMI = Gewicht / ( Größe ^ 2 )
+	BMI = Gewicht / ( Größe ^ 2 ) [kg/m^2]
 
-BMI | …
+BMI | Kategorie
 --- | ---
 < 18,5 | Untergewicht
 < 25 | Normalgewicht
-25 | Präadipositas
+25 | Übergewicht/Präadipositas
 30 | Adipositas Grad I
 35 | Adipositas Grad II
 40 | Adipositas Grad III

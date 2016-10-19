@@ -1,7 +1,5 @@
 # Abdominalgie
 
-.
-
 ## I-VINDICATE-AIDS
 
 Mögliche Ursachen für Abdominalgie, Merkhilfe "I-VINDICATE-AIDS":

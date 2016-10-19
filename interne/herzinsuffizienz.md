@@ -1,5 +1,13 @@
 # Herzinsuffizienz
 
+# med. Therapien
+* ACE/ARB
+* Aldosteron-Antagonisten
+* Betablocker
+* Diuretikum symptomatisch bei Ödemen
+
+### DFP
+
 > das meiste aus DFP-Fortbildung https://www.meindfp.at/proxy/resource/dynasite/mm/mm004/dfpArtikel_Herzinsuffizienz_am1616.pdf
 
 - Dyspnoe, starke Ermüdbarkeit; Orhtopnoe, Husten im Liegen
