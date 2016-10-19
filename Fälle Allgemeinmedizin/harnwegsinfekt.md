@@ -9,6 +9,12 @@ aufsteigende Symptomatik → Pyelonephritis: Flankenschmerz, ± Übelkeit/Erbrec
 
 älterer Mann ♂: häufig zusätzlich Prostatitis: Fieber, Brennen, Druckdolenz der Prostata, Restharn, PSA-Erhöhung ↑; Therapie: Chinolone 7-10 Tage, z. B. Ciproxin 2 × 500 mg
 
+<!--
+
+*[HWI]: Harnwegsinfekt
+
+-->
+
 ## komplizierende Faktoren
 
 - aufsteigende Symptomatik: Flankenschmerz, *Pyelonephritis-Symptome*
@@ -38,6 +44,15 @@ Bei Fieber 10–14 Tage, hohes Fieber: i.v. !
 - unkompliziert ggf. Therapieverzicht möglich
 - nicht gebärfähige 5 Tage
 
+
+<!-- 
+
+*[SS]: Schwangerschaft
+*[ABU]: asymptomatische Bakteriurie
+
+-->
+
+
 ### Alternativ
 
 Je für 3 Tage bei unkompliziertem HWI:
@@ -50,10 +65,10 @@ Je für 3 Tage bei unkompliziertem HWI:
     - Prulifloxacin 600 mg einmalig (Unidrox®)
 - Cephalosporine
 	- Cefalexin 3 x 250–500 mg (Ospexin®, Sanaxin®; 1. Generation)
-	- Cefuroxim 2 × 250–500mg (Zinnat®; 2. Generation)
+	- Cefuroxim 2 × 250–500 mg (Zinnat®; 2. Generation)
 	- Cefixim 1 × 400 mg (Aerocef®, Tricef®; 3. Generation)
     - Cefpodoxim 2 × 100 mg (Biocef®, Otreaon®)
-    - Norfloxacin  2 × 400mg (Zoroxin®)
+    - Norfloxacin  2 × 400 mg (Zoroxin®)
 - Aminopenicilline + Beta-Laktamasehemmer je nach Resistenzlage!
 	- Amoxicillin/Clavulansäure 2 × 625–1000 mg (Augmentin®)
     - Sultamicin 2 × 375 mg (Unasyn®)

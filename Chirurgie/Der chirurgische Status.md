@@ -6,7 +6,12 @@ Wie und wann sind die Beschwerden?
 Wo sind die Beschwerden?
 Evtl. bisherige Therapien Fam. Belastung Rektal digital Untersuchung ab 40. Lj.
 Mammapalpation nicht vergessen verbundene Läsion erstbegutachten und beschreiben (1. Visite mit OA)
-„Geplante Aufnahme zur OP“ ist nicht ausreichend Abd.i.O.: Erbrechen, letzter Stuhl, Blut am/im Stuhl Voroperationen (im Haus?)
+
+„Geplante Aufnahme zur OP“ ist nicht ausreichend
+
+## Abdomen in Observanz
+
+Erbrechen, letzter Stuhl, Blut am/im Stuhl Voroperationen (im Haus?)
 Fieber Darmgeräusche rektal digital Untersuchung (Hämoccult)
 bekannte Cholezystolithiasis Appendix in situ/ AE?
 Niere?

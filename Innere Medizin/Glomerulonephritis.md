@@ -10,4 +10,4 @@ stationär → Biopsie
 
 cave: rasch progrediente Glomerulonephritis (RPGN)
 
-BLutdruck einstellen.
+Blutdruck einstellen.
