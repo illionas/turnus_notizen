@@ -2,12 +2,14 @@
 
 ## Ursachen
 
-- Niere/Harnleiter-Steine
-- hämorrhargische Zystitis
-- Prostatits
-- Pyelonephritiden
-- Urologische Tumore
-- Prostata-Karzinom
+"SHITTT"
+
+- S = Steine (Nierensteine, Harnleitersteine)
+- H = Hämatologische Störung
+- I = Infektion (hämorrhargische Zystitis, Prostatits, Pyelonephritiden)
+- T = Tumor (Prostata-Karzinom, Urologische Tumore)
+- T = Tuberkulose
+- T = Trauma
 
 *Merke: ein gesunder Mann hat keine Harnwegsinfekte!*
 
