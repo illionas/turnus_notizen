@@ -1,1 +1,0 @@
-This is a test to better understand GIT
