@@ -35,5 +35,11 @@ genitaler Juckreiz, weißlich flockiger Ausfluß
 - Clotrimazol (Canesten®) Vaginaltabletten und Vaginalcreme für ~1 Woche *oder*- Pevisone® Creme (Econazol + Glukokortikoid) für 2 d
 - anschließend Gyno-Pevaryl®-Creme (Econazol) und Gyno-Pevaryl®-Depot 150 mg-Ovula 0-0-1 für 2 d- anschließend Döderlein med- bei Erfolglosigkeit syst. Therapie (Diflucan)- Partnermitbehandlung und 2 Wochen Koitusverbot
 # Adnexitis
-# Therapie
+## Therapie
 - Tavanic® 1 × 500 mg (Levofloxacin, Fluorchinolon/Gyrasehemmer) plus Metronidazol (Anaerobex®) 2 × 500 mg für 14 d- oder Cephalosporin + Tetrazyklin für ≥ 10 d
+
+
+# Genitale Blutung- *immer* Blutung anderer Herkunft (Blase, Darm) ausschließen und nachweisen ob esextravaginal, vaginal oder aus dem Zervixkanal blutet.- **Jede Blutung in der Postmenopause *muss* fachärztlich abgeklärt werden**
+## Zyklusabhängige Blutungen
+1. Prämenstruelle Schmierblutung: Corpus luteum Insuffizienz
+2. Postmenstruelle Schmierblutung: Follikel Insuffizienz
