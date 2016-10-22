@@ -1,5 +1,7 @@
 # Texteingabe
 
+
+
 ## Sonderzeichen
 
 | Symbol | Verwendung  | Kürzel + `#` | Win      | Mac |
@@ -20,15 +22,17 @@
 | “deu”  | Gänse-99/66 | `´´`/` `` `, `"!`/`"§  ` | 
 | “eng”  | Quote-66/99 | ` `` `/` '' `,  `"°`/`"$  ` | 
 | »deu«  | Guillemets  | `>>`, `<<  ` | | ⌥+q, ⌥+Q
-| ›‹     | Guillemets  | `>`, `<    ` | | ⌥+N, ⌥+B         
+| ›deu‹  | Guillemets  | `>`, `<    ` | | ⌥+N, ⌥+B         
 | †      | Dagger/Tod  | `tod     ` | Alt+0134 | ⌥+t
 | ⌥      | Option      | `opt     ` | Alt+2325 | 
 | ≈      | ungefähr    | `~=      ` | | ⌥+x
 
-
-
-
 <http://typefacts.com/tastaturkuerzel>
 
+## Anführungszeichen
 
-<!-- http://typefacts.com/artikel/grundlagen/anfuehrungszeichen  -->
+**Merkhilfe:** Bei [Minuskelziffern](https://de.wikipedia.org/wiki/Minuskelziffer) hat die „99” Unterlängen und die „66” Oberlängen → `_99_deutsch^66^`.
+
+Die “englische” Form `^66^english^99^` überlappt mit der deutschen derart, dass man beide aneinander reihen könnte: `_99_deutsch^66^english^99^`.
+
+<http://typefacts.com/artikel/grundlagen/anfuehrungszeichen>

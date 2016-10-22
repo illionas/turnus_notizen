@@ -37,7 +37,110 @@
 	2. Intensionstremor
 	3. Skandierendes Sprechen (Dysarthrie)
 - zentrale Paresen- Sensibilitäts- und Koordinationsstörungen: Beschränken sich meist auf distaleKörperhälfte, eine Körper- oder Gesichtshälfte – oft querschnittsartig angeordnet!- Ataxie = Störung der Koordination von Bewegungen- Häufig Hirnnerven beteiligt: - ⅓ Beginn mit Optikusneuritis - Trigeminusneuralgie- Miktionsstörungen
-## Diagnostik:- Liquor: Pleocytose, Ig-Vermehrung (v.a. IgG)- MR: periventrikuläre, multilokuläre, KM-anreichernde Läsionen in weißer Substanz.## Therapie:- im akuten Schub: hochdosierte Kortikosteroidbehandlung: zB 500 – 1000 mg Methylprednisolon für 5-10 Tage	- Je kürzer die Dauer eines Schubs, desto größer ist die Aussicht auf Remission!- Langzeitmedikation:	- Azathioprin = Immunsuppressivum	- Interferon β – Reduktion der Schubrate	- Baclofen + Memantine (=Ebixa = Acetylcholinesterasehemmer): Behandlung der Spastik	- PHTH	- Selbsthilfegruppe
-	
-# Myasthenia gravis
-(v.a. Frauen 20. – 40. Jahr)= belastungsabhängige Muskelerkrankung= Autoimmunerkrankung der motor. Endplatte der quergestreiften Muskulatur; polyklonale IgG-Akbinden an Acetylcholinrezeptor und blockieren die Weiterleitung des Aktionspotentials auf dieMuskelzelle. Der elektr. Impuls vom Nerv kann nicht auf den Muskel übergehen → Muskel wirdnicht erregt!Klinik:Lähmungen v.a. kleiner Muskeln (Augenlider, äußere Augenmuskeln).Am Morgen und nach Ruhepausen ist die Leistungsfähigkeit am Besten → nach wenigenWiederholungen ist der Muskel erschöpft.Lebensbedrohlich ist das Versagen der Atemmuskulatur → myasthenische KriseTyp. Frühsymptome:• Ptosis und Diplopie• Mimische Muskulatur• Kau- und Rachenmuskulatur• Generell Arme stärker betroffen als BeineKomplikation: AspirationspneumonieDiagnostik:• Klinisches Bild, Simpson-Test (Augen)• Nachweis von Acetycholinrezeptor-Ak im Blut• Sofortige Besserung nach Verabreichung von Acetycholinesterase-Inhibitoren →Prostigmin-Test• Elektrophysiologische Untersuchung – EMG• Histologischer Nachweis von Lymphoid-Zellen in MuskelbiopsieTherapie:• Cholinesterasehemmer: hemmen Abbau von Acetylcholin; Pyridostigminbromid = Ubretid,Prostigmin• Immunsuppressiv (Kortison, Azathioprin = Imurek)• OP – Thymusentfernung, bei Thymom Bildung von Ak• Bei schweren oder kritischen Verläufen:PlasmaphereseHochdosiert Immunglobulin-InfusionPrognose:Wenn nur die Augenmuskel betroffen sind → gute Prognose
+## Diagnostik:- Liquor: Pleocytose, Ig-Vermehrung (v.a. IgG)- MR: periventrikuläre, multilokuläre, KM-anreichernde Läsionen in weißer Substanz.## Therapie:<http://www.oemsg.at>
+1. Therapie des akuten Erkrankungsschubes
+	- **Kortison hochdosiert**: Methyl-Prednisolon (Solu Medrol® 1000 mg, Urbason Solubile® 1000 mg) i.v. für drei bis fünf (ev. sieben) Tage; orales Ausschleichen
+	- Je kürzer die Dauer eines Schubs, desto größer ist die Aussicht auf Remission!
+
+2. Immunmodulierende Basistherapie (Langzeittherapie)
+	- bei schubförmiger MS möglichst frühzeitig
+	- Therapieziel: Reduktion der Krankheitsprogression, Schubprophylaxe
+	- **Interferon beta**-Präparat (erste Wahl)
+		- Interferon beta-1b: Betaferon® 8 MiU jeden 2. Tag s.c.
+		- Interferon beta-1a: Avonex® 30 mcg 1 x pro Woche i.m.,		 Rebif® 22 mcg oder 44 mcg– 3 x pro Woche s.c.
+	- oder **Glatirameracetat** (Copaxone® 20 mg – täglich s.c.) erste Wahl
+	- Bei weiter rasch fortschreitender schubförmig verlaufender MS
+		- *≥ zwei Schübe/Jahr, Behinderungsprogression und Krankheitsaktivität im MRT*
+		- Natalizumab (Tysabri®) und Fingolimod (Gylenia®)
+		- Fingolimod (Gilenya®) 1 × 0,5 mg p.o.
+		- Mitoxantron 12 mg/m² Körperoberfläche i.v. monatlich oder vierteljährlich; bei schweren Verläufen# Myasthenia gravis
+- v.a. Frauen ♀ 20. – 40. Lebensjahr- belastungsabhängige Muskelerkrankung- Autoimmunerkrankung; polyklonale IgG-Ak binden an Acetylcholinrezeptor und blockieren die Weiterleitung des Aktionspotentials an die motorische Endplatte der quergestreiften Muskulatur
+## Symptome:
+- Lähmungen v.a. kleiner Muskeln (Augenlider, äußere Augenmuskeln).	- Am Morgen und nach Ruhepausen ist die Leistungsfähigkeit am Besten
+	- nach wenigen Wiederholungen ist der Muskel erschöpft.	- Lebensbedrohlich ist das Versagen der Atemmuskulatur → **myasthenische Krise**- Typische Frühsymptome:	- **Ptosis** und Diplopie	- Mimische Muskulatur	- Kau- und Rachenmuskulatur	- Generell Arme stärker betroffen als Beine- Komplikation: Aspirationspneumonie- Diagnostik:	- Klinisches Bild, Simpson-Test (allmähliche Ptosis bei Blick nach oben)	- Nachweis von Acetycholinrezeptor-Ak im Blut	- Sofortige Besserung nach Verabreichung von Acetycholinesterase-	  Inhibitoren → Prostigmin-Test	- Elektrophysiologische Untersuchung – EMG	- Histologischer Nachweis von Lymphoid-Zellen in Muskelbiopsie## Therapie- **Cholinesterasehemmer**: hemmen Abbau von Acetylcholin;
+	- **Pyridostigminbromid** (Ubretid®, Prostigmin®)- Immunsuppressiv: Kortison, Azathioprin (Imurek®)- OP – Thymusentfernung, bei Thymom Bildung von Ak- Bei schweren oder kritischen Verläufen:	- Plasmapherese	- Hochdosiert Immunglobulin-Infusion# Morbus Parkinson
+»Schüttellähmung«, Beispiele Boxer Muhammad Ali, Back-to-the-Future Micheal J. Fox
+Progredienter Untergang von melaninhaltigen Neuronen in der Substantia nigra, die den Neurotransmitter Dopamin synthetisieren und auf die cholinergen Neurone des Striatums hemmend einwirken.
+- Parkinson-Trias (Mnemonik **“trap”**, engl. Falle): Patient ist wie *gefesselt* 
+	On-Phasen wechseln aprupt mit Off-Phasen.    - **Tremor**		Ruhetremor, „Pillendreher“, „Rabbit-Phämonen“ (Unterkiefer)    - **Rigor**
+		Zahnradphänomen v.a. im Radiocarpalgelenk spürbar
+   			- **Akinesie** bzw. Bradykinese
+
+		Mikrographie, Masken-Gesicht mit seltenem Lidschlag “reptilian stare” ev. Speicheln (Schluckstörung)
+		
+	- **Pose**
+	
+		Trippelschritte, Startschwierigkeiten, vornübergebeugt, Fallneigung, Gangbild ohne Armschwingen
+
+## Therapie
+
+„L-Dopa ist immer noch der Goldstandard der Therapie *aber* die L-Dopa-Einnahme führt nach einigen Jahren zum **Dopaminsyndrom** – zu Wirkungsschwankungen = Fluktuationen: Verzögerter Wirkungseintritt (Delayed on) verkürzter Wirkdauer und raschen Wirkungsabfall, dem Wearing off, sowie Dyskinesien, unwillkürlichen Überbewegungen. Man wird daher, besonders wenn der Patient jung ist und eine lange Krankheitsdauer zu erwarten ist, trachten, möglichst spät mit der L-Dopa-Therapie zu beginnen – das heißt, man wird mit Dopaminagonisten, Mao-B-Hemmern oder Amantadinen die ersten Jahre überbrücken.“[^parkinson-oesterreich.at]
+
+[^parkinson-oesterreich.at]: Zitat <http://www.parkinson-oesterreich.at/%C3%BCber-parkinson/therapien/>
+- L-Dopa + Decarboxylase-Hemmer:
+	- L-Dopa/Benserazid (Madopar®)
+	- L-Dopa/Carbidopa (Sinemet®, Duodopa® per Pumpe)
+	- L-Dopa/Carbidopa/Entacapon (Stalevo®)
+- Dopaminagonisten: Ropinirol (Requip®), Pramipexol (Sifrol®),Rotigotin (Neupro® Pflaster), Apomorphin (ApoGo®, Injektion oder Pumpe)
+- MAO-B-Hemmer: Rasagilin (Azilect®), Selegilin (Jumex®, Amboneural®, Xilopar®)
+- COMT-Hemmer: Entacapon (Comtam®), Tolcapon (Tasmar®)
+- Amantadin NMDA-Agonist ↗ Freisetzung von Dopamin (PK-Merz®, Hofocomant® p.o./i.v.) → Therapie der Wahl bei **akinetischer Krise**
+- Anticholinergika: z. B. Biperiden (Akineton®), Bronaprin (Sormodren®), Procyclidin-HCL (Kemadrin®)
+
+Kontraindikationen:
+
+- Neuroleptika- Metoclopramid- Antihypertensiva: Reserpin, Clonidin, Guanethidin
+
+
+# Demenz
+
+## Mini-Mental-State-Examination (MMSE)
+
+<https://www.praxis-wiesbaden.de/icd10-gm-diagnosen/zusatz-mmse.php>
+
+- zeitliche, situative Orientierung sowie Orientierung zur Person- Merkfähigkeit, Frischgedächtnis- Rechnen- Sprache: Benennen, Sprachverständnis- Lesen, Schreiben, Zeichnen
+## Demenz vom Alzheimertyp
+schleichender Beginn
+## vaskuläre Demenz
+plötzl. Beginn mit wechselhaftem, schubweisem Verlauf undschrittweiser Zunahme v. Hirnleistungsstörungen;nächtl. Verwirrtheit, kognitive Funktionen↓
+- Acetylcholinesterase-Hemmer: ab MMSE ≤ 27 Pkt. Donepezil (Aricept®), Rivastigmin (Exelon®), Memantin (Ebixa®)- Nootropika: in Wirksamkeit umstritten (Gingko, Nootropil)
+# Insult
+
+## Symptome| Lokalisation            | Diagnostische Hinweise |
+|-------------------------|------------------------|
+| Großhirnhemissphären    | kontralaterale sensomotorische HS-Symptomatik, neuropsycholog. Defizite (Aphasie, Agnosie, Apraxie), Hemianopsie, extrapyramidale Symptome  || Kleinhirn               | Ataxie, Schwindel, Fallneigung || Hirnstamm| Alternanssymptome (Hirnnervenausfälle auf der befallenen Kopfseite und Ausfälle der langen Bahnen auf der gegenüberliegenden Seite), Bewusstseinsstörungen, Hemiataxie, bilaterale pos. Pyramidenbahnzeichen, homonyme Hemianopsie, Nystagmus, Dysarthrie, Schwindel, Kopfschmerzen || A. cerebri media        | kontralaterale, brachiofazial betonte sensomotorische Hemiparese (Wernicke Mann), Hemianopsie, Aphasie, wenn sprachdominate Hemisph. betroffen ist || A. cerebri ant.         | Beinbetonte sensomotorische Hemiparese, Gangapraxie, zebrale Harninkontinenz |
+| A. cerebri post.        | Hemihypästhesie, homonyme Hemianopsie, Dyslexie wenn dominante Seite betroffen || Stenose der A. carotis int. mit rez. Embolien| Ipsilaterale Amaurosis fugax, evtl. Kontralaterale Symptome wie bei Verschluss der A. cerebri media |
+
+## Therapie
+
+**Lyse-Kontraindikationen:** Thrombozyten < 100.000/μl, BZ < 50 oder > 400 mg/dl; vor kurzem GI-Blutung, chirurgischer Eingriff, Schlaganfall oder Hirntrauma
+
+
+
+## Sekundärprophylaxe
+
+- **Acetylsalicylsäure 1 ×  50–100 mg**
+- bei Unverträglichkeit oder symptomatischer pAVK: **Clopidogrel 1 × 75 mg** (Plavix®, P2Y12-Antagonist)
+## transitorische Ischämische Attacke
+
+Stationäre Diagnostik und Sekundärprävention innerhalb 24 Stunden
+
+
+### ABCD2-Score
+
+|  | Risikofaktor | Kriterium | Punkte |
+|--|--|--|--|
+| A | Alter | ≥ 60 Jahre | 0 → 1 |
+| B | Blutdruck | >140/90 | 0 → 1
+| C | Klinik | Sprachstörung; einseitige Schwäche | 0 → 1 → 2
+| D | Dauer | > 10 min; ≥ 1 h | 0 → 1 → 2
+| 2 | Diabetes | bestehend | 0 → 1
+
+Summe des ABCD2-Score ergibt **Zwei-Tages-Risiko:**
+
+- ≥ 0 Punkte: gering (1 %)
+- ≥ 4 Punkte: mäßige (4 %)
+- ≥ 6 Punkte: hoch (8 %)
+
+# Hirndruckzeichen
+- Starke Kopfschmerzen (v.a. morgens, die sich über den Tag hin bessern)- Verwirrtheit, Vigilanzstörung- Erbrechen- Neurologische Ausfälle (sensibel, motorisch)- Krampfanfall- Pupillenstörungen
