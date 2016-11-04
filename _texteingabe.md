@@ -6,15 +6,20 @@
 
 | Symbol | Verwendung  | Kürzel + `#` | Win      | Mac |
 | ------ | ----------  | ---------- | -------- | --- |
-| ¼      |             | `1/2     ` | Alt+0188
-| ½      |             | `1/4     ` | Alt+0189
+| ☺      |             | `:)      ` <!--?-->| Alt+1
+| ♥      |             | `<3      ` <!--?-->| Alt+3
+| •      |             | `*       ` <!--?-->| Alt+7
+| `tab`  |             | `tab     ` <!--?-->| Alt+09
+| ☼      |             | `sun     ` <!--?-->| Alt+15
+| ¼      |             | `1/4     ` | Alt+0188
+| ½      |             | `1/2     ` | Alt+0189
 | ¾      |             | `3/4     ` | Alt+0190
-| ↑      | hoch        | `<n      ` |
-| ↓      | niedrig     | `<s      ` |
-| →      | führt zu    | `<e      ` |
-| ←      | wegen       | `<w      ` |
-| ↗      | steigt      | `<ne     ` |
-| ↘      | sinkt       | `<se     ` |
+| ↑      | hoch        | `<n      ` | Alt+24
+| ↓      | niedrig     | `<s      ` | Alt+25
+| ←      | wegen       | `<w      ` | Alt+26
+| →      | führt zu    | `<e      ` | Alt+27
+| ↗      | steigt      | `<ne     ` |
+| ↘      | sinkt       | `<se     ` |
 | ⇅      | hoch/tief   | `<<ns    ` |
 | ⇄      | Einfluss    | `<<ew    ` |
 | ×      | Mal         | `x       ` | Alt+0215 | 
