@@ -1,9 +1,40 @@
-http://notepad.pw/kinder-lukashttp://notepad.pw/kinder-5http://notepad.pw/jourfix
+http://notepad.pw/kinder-lukas
+http://notepad.pw/kinder-5
+http://notepad.pw/jourfix
+
+# Ambulanz #
+
+# Anamnese #
+
+Keine chronischen Erkrankungen, keine Operationen, keine Allergien bekannt.
+
 # Status #
-## Allgemein ##
-keine chronischen Erkrankungen, keine Operationen, keine Allergien bekannt.
-Status:AZ und EZ gutKeine Exsikkosezeichen, Zunge und SH feucht, guter HautturgorKein MeningismusPulmo: VA bds, keine RGs, Cor: r/rh/nfAbdomen: weich, keine Resistenzen, keine AS, kein DS, DG alle QuadrantenWS und beide NL nicht klopfdolent.   Rachen: nicht gerötet Tonsillen: nicht gerötetKeine vergrößerten LymphknotenOhren: TF und GG bds blandHaut: bland, keine Petechien
-Harn: Nitrit , Leu , Ery , Pro Labor: Leu: ; Hb: ; Thrombo: ; CRP: ; Lym%: ; Mon%: ; Gra%: ;Astrup: pH 7,; Na ; K ; Glu: ; Lac: ; BE: ;
+Kurzbefehl: `stat`
+
+    AZ und EZ gut
+    Keine Exsikkosezeichen SH feucht
+    Kein Meningismus
+    Pulmo: VA frei Cor: r/r/nf
+    Abdomen: weich, keine Resistenzen, keine AS, kein DS, DG alle Quadranten
+    Rachen: nicht gerötet Tonsillen: nicht gerötet
+    Ohren: TF bds bland
+    Haut: bland, keine Petechien
+
+eventuell ergänzen:
+    
+    Zunge nicht belegt, guter Hautturgor
+    Pulmo: VA bds, keine RGs, kein Giemen, Eupnoe
+    Abdomen: kein Erschütterungsschmerz, kein Loslassschmerz im li UB, kein Psoasdehnungsschmerz
+    WS und beide NL nicht klopfdolent
+    Keine vergrößerten Lymphknoten
+    GG bds bland
+
+# Befunde #
+
+    Harn: Nitrit , Leu , Ery , Pro
+    Labor: Leu: ; Hb: ; Thrombo: ; CRP: ; Lym%: ; Mon%: ; Gra%: ;
+    Astrup: pH 7,; Na ; K ; Glu: ; Lac: ; BE: ;
+
 ## Säugling ##
 Fontenelle im Niveaubewegt alle 4 Extremitäten gleich, gute KopfkontrolleHaut bland keine Petechien, Windelregion oB
 # Procedere #Auf ausreichende Flüssigkeitszufuhr achten.
