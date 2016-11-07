@@ -22,15 +22,15 @@ Kurzbefehl: `stat`
 
 eventuell ergänzen:
     
-    Pat. ist wach und freundlich.
+    Pat. ist wach und freundlich.
     Zunge nicht belegt, guter Hautturgor
     Pulmo: VA bds, keine RGs, kein Giemen, Eupnoe
-    Abdomen: quatschende DG, Mc Burney o.B, Lanz o.B, kein Loslassschmerz, kein Psoasdehnungsschmerz, kein Bewegungs- oder Erschütterungsschmerz,
+    Abdomen: quatschende DG, Mc Burney o.B, Lanz o.B, kein Loslassschmerz, kein Psoasdehnungsschmerz, kein Bewegungs- oder Erschütterungsschmerz,
     WS und beide NL nicht klopfdolent
-    Keine vergrößerten Lymphknoten
-    GG bds bland
-    Keine äußerl. Verletzungszeichen, Kopf und alle Extremitäten frei beweglich.
-    Caput: keine Frakturstufe tastbar, keine Schwellung, bzw. Hämatom.
+    Keine vergrößerten Lymphknoten
+    GG bds bland
+    Keine äußerl. Verletzungszeichen, Kopf und alle Extremitäten frei beweglich.
+    Caput: keine Frakturstufe tastbar, keine Schwellung, bzw. Hämatom.
 
 # Befunde #
 
@@ -57,6 +57,7 @@ Kurzbefehl `KO`
     Vormittags Stuhlprobe für Calprotectin-Test abgeben (Röhrchen mitgegeben), Befund wird kommentiert zugeschickt.
 
     Labor: BB, CRP, P9, Amylase, Lipase, Gliadin-Antikörper abgenommen.
+    
 # Ambulanz
 
 Therapieempfehlung:Reichlich Flüssigkeit – schluckweise aber häufig,Schonkost (Tee, Suppe Zwieback)  körperliche Schönung
