@@ -22,29 +22,43 @@ Kurzbefehl: `stat`
 
 eventuell ergänzen:
     
+    Pat. ist wach und freundlich.
     Zunge nicht belegt, guter Hautturgor
     Pulmo: VA bds, keine RGs, kein Giemen, Eupnoe
-    Abdomen: kein Erschütterungsschmerz, kein Loslassschmerz im li UB, kein Psoasdehnungsschmerz
+    Abdomen: quatschende DG, Mc Burney o.B, Lanz o.B, kein Loslassschmerz, kein Psoasdehnungsschmerz, kein Bewegungs- oder Erschütterungsschmerz,
     WS und beide NL nicht klopfdolent
     Keine vergrößerten Lymphknoten
     GG bds bland
+    Keine äußerl. Verletzungszeichen, Kopf und alle Extremitäten frei beweglich.
+    Caput: keine Frakturstufe tastbar, keine Schwellung, bzw. Hämatom.
 
 # Befunde #
+
+Kurzbefehle: `combur`, `BB`, `Astrup`
 
     Harn: Nitrit , Leu , Ery , Pro
     Labor: Leu: ; Hb: ; Thrombo: ; CRP: ; Lym%: ; Mon%: ; Gra%: ;
     Astrup: pH 7,; Na ; K ; Glu: ; Lac: ; BE: ;
 
 ## Säugling ##
-Fontenelle im Niveaubewegt alle 4 Extremitäten gleich, gute KopfkontrolleHaut bland keine Petechien, Windelregion oB
-# Procedere #Auf ausreichende Flüssigkeitszufuhr achten.
-Kontrolle bei Nichtbesserung am _____ beim Kinderfacharzt oder hierorts am Vormittag (8-10 Uhr) in der Ambulanz. Bei akuter Verschlechterung Wiedervorstellung in der Kinderambulanz jederzeit möglich!
-Vormittags Stuhlprobe für Calprotectin-Test abgeben (Röhrchen mitgegeben), Befund wird kommentiert zugeschickt.
-Labor: BB, CRP, P9, Amylase, Lipase, Gliadin-Antikörper abgenommen.
+
+    Fontenelle im Niveau
+    bewegt alle 4 Extremitäten gleich, gute Kopfkontrolle
+    Haut bland, keine Marmorierung, keine Petechien, Windelregion oB
+    
+# Procedere #
+
+    Auf ausreichende Flüssigkeitszufuhr achten.
+
+Kurzbefehl `KO`
+
+    Kontrolle bei Nichtbesserung am _____ beim Kinderfacharzt oder hierorts am Vormittag (8-10 Uhr) in der Ambulanz. Bei akuter Verschlechterung Wiedervorstellung in der Kinderambulanz jederzeit möglich!
+    
+    Vormittags Stuhlprobe für Calprotectin-Test abgeben (Röhrchen mitgegeben), Befund wird kommentiert zugeschickt.
+
+    Labor: BB, CRP, P9, Amylase, Lipase, Gliadin-Antikörper abgenommen.
 # Ambulanz
-Status:...............KEIN DS, Mc Burney o.B, Lanz o.B, kein Psoasdehnungsschmerz, kein Bewegungsschmerz;  quatschende DG
-Keine äußerl. Verletzungszeichen, Kopf und alle Extremitäten frei beweglich.Caput: keine Frakturstufe tastbar, keine Schwellung, bzw. Hämatom.
-Pat. ist wach und freundlich.
+
 Therapieempfehlung:Reichlich Flüssigkeit – schluckweise aber häufig,Schonkost (Tee, Suppe Zwieback)  körperliche Schönung
 oder Gatorade/Isostar 1:1 verdünnt mit Wasser
 # Bauchschmerzen/Diarrhoe/Erbrechen:
