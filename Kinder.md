@@ -1,3 +1,5 @@
+Kinder-2
+
 Status:AZ und EZ gutKeine Exsikkosezeichen SH feuchtKein MeningismusPulmo: VA bds, keine RGs, Cor: r/rh/nfAbdomen: weich, keine Resistenzen, keine AS, kein DS, DG alle QuadrantenRachen: nicht gerötet Tonsillen: nicht gerötetOhren: TF bds blandHaut: bland, keine Petechien
 Kontrolle beim Kinderfacharzt. Bei akuter Verschlechterung Wiedervorstellung in der Kinderambulanz jederzeit möglich
 Kontrolle beim Kinderfacharzt bei Nichtbesserung am _____ oder hierorts am Vormittag in der Ambulanz, im Akutfall Wiedervorstellung jederzeit möglich!
