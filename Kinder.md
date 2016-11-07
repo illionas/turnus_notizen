@@ -54,6 +54,8 @@ Kurzbefehl `KO`
 
     Kontrolle bei Nichtbesserung am _____ beim Kinderfacharzt oder hierorts am Vormittag (8-10 Uhr) in der Ambulanz. Bei akuter Verschlechterung Wiedervorstellung in der Kinderambulanz jederzeit möglich!
     
+---
+    
     Vormittags Stuhlprobe für Calprotectin-Test abgeben (Röhrchen mitgegeben), Befund wird kommentiert zugeschickt.
 
     Labor: BB, CRP, P9, Amylase, Lipase, Gliadin-Antikörper abgenommen.
