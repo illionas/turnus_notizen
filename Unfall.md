@@ -26,7 +26,7 @@ Einteilung nach *Pauwels I-III* (bezieht sich auf die Neigung der Frakturebene z
 *häufig bei Hüft-TEP!*
 
 starke Schmerzen, keine aktive Bewegung möglich, ggf. Taubheitsgefühl im Bein;
-In 20% Verletzung des N. ischiadicus → DMSRepetition in Kurznarkose und Muskelrelaxation- Dorsale Luxation
+In 20% Verletzung des N. ischiadicus → DMS prüfenRepetition in Kurznarkose und Muskelrelaxation- Dorsale Luxation
 	- Lux. iliaca: Adduktion, Innenrotation	- Lux. ischiadiaca: Adduktion, Flexion
 	- Repostion nach **Böhler**
 	
@@ -36,9 +36,22 @@ starke Schmerzen, keine aktive Bewegung möglich, ggf. Taubheitsgefühl im Bein
 		- Ventrale Luxation
 	- Lux. pubica: Abduktion, Außenrotation	- Lux. obturatoria: Abduktion, Flexion	- Repostion:
 		> Längszug am gestreckten Bein und Innenrotation; offene Reposition bei OP-pflichtigen Begleitverletzungen (Acetabulum-, SH-, Pipkinfraktur)
-		
-
+*[DMS]: Durchblutung, Mobilität, Sensibilität
 # Arthrose
 = degen. Gelenkserkrankung durch Mißverhältnis zw. Beanspruchung u. Beschaffenheit
 ## Klinik
 - typisch: **morgendl. Anlaufschmerz, Belastungsschmerz bis Dauerschmerz**- Untersuchung: Gelenksdeformierungen, Fehlstellungen, Muskelkontrakturen, Gelenksinstabilität- Röntgen: Gelenkspaltverschmälerung, Inkongruenz d. Gelenksflächen, Zysten, Randwulst,Osteophyten## Therapie der aktivierten Arthrose- NSAR- intraartikuläre Glukokortikoide- Kryotherapie
+# Tendovaginitis de Quervain
+> “mommy thumb”
+* Tenosynovitis des *abductor pollicis longus, APL* und *extensor pollicis brevis, EPB* (erstes Kompartment) (Anmerkung: anteriore Begrenzung der anatomischen Tabatière, Foveola radialis)
+* Finkelstein-Test: Schmerzen am distalen Radius bei rascher passiver Ulnarduktion im Handgelenk mit flektiertem Daumen
+* DD: Rhizarthrose (Daumensattelgelenk)
+
+# Pronatio dolorosa
+
+Reponieren (2 Techniken):
+
+1. Extension, dann Hyperpronation
+2. Extension, max. Supination, Daumendruck auf Radiusköpfchen, Beugung im Ellbogen
+
+<!-- 83 -->

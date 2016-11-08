@@ -14,57 +14,99 @@ Below, I props a syntax (or rather the prototype of it) that is
 
 It is kind of a hybrid of compressed Wiki-Syntax and Pipe-Tables. In my opinion it should not matter whether you start an new cell in a new line or continue in the same line. Still, for simple tables it should be easily readable as raw text.
 
-| A1 | B1 | C1 | D1 |
-|--|--|--|--|
-| A2 | B2 | C2 | D2 |
+## Optionally put new cell on new line (with leading space)
 
-Someone already suggested a compressed pip-table syntax, similar to this:
+I indeed like the idea of leaning towards the wikisyntax. One property it has is that it's relatively  easy to *write* without the help of any sophisticated editor (once you know the syntax, which looks rather difficult).
 
-```
-|= A1	|= B1 |= C1 |= D1 |
-|  A2	|  B2 |  C2 |  D2 |
-```
+My point would be to mix in the possibility of *writing a new **cell** on a new line* into pipe tables, like this:
 
-So my idea is that you can start the new cells in new lines if needed and optionally space them out so that the location of the bar visually indicates which column it belongs to. 
+- `^[|].*` indicates new row (starts with pipe)
+- `^\s+[|].*` indicates new cell (starts with spaces then pipe)
 
-```
-|= A1
-    |= B1
-        |= C1
-            |= D1						
-|  A2
-    |  B2
-        |  C2
-			
-          Some additional paragraph for C2
-			
-            |  D2
+Or rather:
+
+* `replace(/\n^\s+[|]/gm, "|")` -- remove newline/linefeed from lines starting with spaces before the pipe (inside identified tables)
+* ***then evaluate table as usually*** → This means there would be **no big changes** to pipe tables, i guess.
+* Also works with tables that lack leading or trailing pipes, since the replace rule would only match inside the rows.
 
 ```
+| A1
+ | B1
+ | C1
+ | D1 
+|---|---|                       
+| A2
+ | B2
+ | C2
+ | D2
+```
 
-Probably the amount of whitespace in front wouldn't matter a lot:
+Until here everything about my proposal would be ***optional!***. No need to use it for small tables that are compact enough to fit into the editors view anyway. The point is that stuffed cells would get more overview.
 
-- `[bar].*` indicates new line
-- `\s*[bar].*` indicates new cell
+```
+| A1 | B1	| C1 | D1 |
+|----|----|----|----|
+| A2 | B2
+    | C2: Lorem ipsum dolor sit amet, qui repudiare dissentias mediocritatem ut, quod consequat ex qui, ius in quaerendum repudiandae. Eu soleat repudiandae quo, est ullamcorper definitiones ut, cu augue sententiae quo. Ea case nihil scaevola has, eu consul propriae pro. Nec feugait corrumpit te, est ut mollis bonorum.
+    | D2 |
+```
+
+You could also space out the table so that it would be easy to grasp which cell is in which *collum*, even if the cells have content of different length.
+
+```
+| A1 Lorem ipsum dolor sit amet, qui repudiare 
+    | B1 dissentias mediocritatem ut, quod consequat ex qui, ius in quaerendum repudiandae. 
+        | C1 Eu soleat repudiandae cu augue sententiae
+            | D1 Ea case nihil scaevola has, 
+|---|---|---|---
+| A2 repudiare dissentias mediocritatem ut, quod 
+    | B2 repudiandae quo, est ullamcorper
+        | C2 est ut mollis bonorum.
+            | D2 Nec feugait corrumpit 
+```
+
+## Block level elements
+However, if we would change the syntax a bit it might enable us to **use block level elements inside tables!**, which would be really awsome!
+
+```
+| A1 | B1	| C1 | D1 |
+|----|----|----|----|
+| A2 | B2
+    | - C2 ex qui
+      - Lorem ipsum
+      - dolor sit amet,
+      - qui repudiare
+    | D2 |
+```
+
+## compressed tables
+
+I think this could be nicely combined with the idea of *compressed pipe tables* mentioned by @mofosyne with `-` or `=` to mark `<TH>`. 
 
 ```
 |= A1
  |= B1
  |= C1
- |= D1						
+ |= D1                        
 |  A2
  |  B2
  |  C2
  |  D2
 ```
 
-It could be backwards-compatible to normal pipe-tables (with or without line-breaks).
+I personally prefer the `=` visually. Plus, maybe the combination `|-`could be used to more clearly start a new row, then you could even write a table *in one single line* like this: ` |= A1 | B1 |- A2 | B2 `. (But then the syntax would change quite a bit and the beauty of just removing leading whitespace and newline would go away.)
+
+The `|=` might also be used to mark a `<TH>` anywhere in the table. Most common usecase might be flipped tables, where the headers are on the left, instead of on top (i.e. A1 and A2 would be headers in the examples above).
+
+Align could be incorporated into the header marker like this: `|:=` left align, `|:=:` center align, `|=:` right align, or like @mofosyne proposed e.g. `|:= header =:` for center align.
+
+## Rowspan
+
+For rowspan I would suggest the "obvious" symbol for continuation, i.e. the three dots that form the "ellipsis" `...`. E.g. in the following example C2 and C3 would be merged into one cell that spans two rows.
 
 ```
-| A1 | B1
-	| C1 | D1 |
-|----|----
-	|----|----|
-| A2 | B2
-	| C2 | D2 |
+|  A1  |  B1 |  C1  |  D1  |
+|------|-----|------|------|
+|  A2       ||  C2  |  D2  |
+|  A3  |  B3 |  ... |  D3  |
 ```

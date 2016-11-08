@@ -23,6 +23,8 @@
 	- individuelle **Risikoprognose für Herzinfarkt und Schlaganfall** anhand von Risikofaktoren und Laborwerten
 	- Wahrscheinlichkeit wird optisch demonstriert, die Effekte von Verhaltensänderungen oder medikamentöser Therapien werden anschaulich dargestellt
 
+* [PROCAM-Test](http://www.assmann-stiftung.de/procam-studie/procam-tests/)
+
 ## Hilfsmittel
 
 * [doctopia.de > Übersetzungslisten](https://www.doctopia.de/medizinische-uebersetzungen/index.html)
@@ -39,3 +41,7 @@
 * [Embryotox.de](http://www.embryotox.de/wirkstoffe-auswahl.html)
 	- Die Pharmakovigilanz- und Beratungszentrum für Embryonaltoxikologie
 der Charité-Berlin bietet eine Übersicht über die Evidenz zu Medikamenten in der Schwangerschaft und Stillzeit (auch [nach Erkrankung gegliedert](http://www.embryotox.de/erkrankungen-auswahl.html)), inklusive besser erprobter Therapien und eine grobe Risikoabschätzung zur Teratogenität.
+
+# Patientenmanagment
+
+* [4PatientCare](https://4patientcare.com/)
