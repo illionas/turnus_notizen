@@ -22,6 +22,7 @@
 | ↘      | sinkt       | `<se     ` |
 | ⇅      | hoch/tief   | `<<ns    ` |
 | ⇄      | Einfluss    | `<<ew    ` |
+| ↩︎      | zurück      | `<re#    ` | 
 | ×      | Mal         | `x       ` | Alt+0215 | 
 | ®      | Handelsname | `r       ` | Alt+0174 | ⌥+r
 | “deu”  | Gänse-99/66 | `´´`/` `` `, `"!`/`"§  ` | 
