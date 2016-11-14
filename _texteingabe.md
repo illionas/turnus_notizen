@@ -22,20 +22,27 @@
 | ↘      | sinkt       | `<se     ` |
 | ⇅      | hoch/tief   | `<<ns    ` |
 | ⇄      | Einfluss    | `<<ew    ` |
-| ↩︎      | zurück      | `<re#    ` | 
+| ↩︎      | zurück      | `<re     ` |
 | ×      | Mal         | `x       ` | Alt+0215 | 
 | ®      | Handelsname | `r       ` | Alt+0174 | ⌥+r
-| “deu”  | Gänse-99/66 | `´´`/` `` `, `"!`/`"§  ` | 
-| “eng”  | Quote-66/99 | ` `` `/` '' `,  `"°`/`"$  ` | 
-| »deu«  | Guillemets  | `>>`, `<<  ` | | ⌥+q, ⌥+Q
-| ›deu‹  | Guillemets  | `>`, `<    ` | | ⌥+N, ⌥+B         
-| †      | Dagger/Tod  | `tod     ` | Alt+0134 | ⌥+t
 | ⌥      | Option      | `opt     ` | Alt+2325 | 
 | ≈      | ungefähr    | `~=      ` | | ⌥+x
+| †      | Dagger/Tod  | `tod     ` | Alt+0134 | ⌥+t
+| ⟂      | normal      | `normal  ` |
 
 <http://typefacts.com/tastaturkuerzel>
 
 ## Anführungszeichen
+
+| Symbol | Verwendung  | Kürzel + `#` | Win      | Mac |
+| ------ | ----------  | ---------- | -------- | --- |
+| „deu“  | Gänse-99/66 | `´´`/` `` `, `"!`/`"§  ` |
+| “eng”  | Quote-66/99 | ` `` `/` '' `,  `"°`/`"$  ` | 
+| ‚deu‘  | Gänse-9/6   | `´`/`` ` ``  | Alt+0130, Alt+0145 | ⌥+s, ⌥+# 
+| ‘eng’  | Quote-6/9   | `` ` ``/`'`  | Alt+0145, Alt+0146 | ⌥+#, ⇧+⌥+#
+| »deu«  | Guillemets  | `>>`, `<<  ` | | ⌥+q, ⌥+Q
+| ›deu‹  | Guillemets  | `>`, `<    ` | | ⌥+N, ⌥+B
+| it’s   | Apostroph   | ` '        ` | Alt+0146 | ⇧+⌥+#
 
 **Merkhilfe:** Bei [Minuskelziffern](https://de.wikipedia.org/wiki/Minuskelziffer) hat die „99” Unterlängen und die „66” Oberlängen → `_99_deutsch^66^`.
 

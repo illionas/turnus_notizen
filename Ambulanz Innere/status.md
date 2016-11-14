@@ -3,44 +3,27 @@
 ## ABCDE
 
 - Airway (Atemweg) 
-	- Rachen, stabile Seitenlage
+	- Rachen (Rötung, Tonsillen-Belag), Zungenbiß, stabile Seitenlage
 - Breathing (Beatmung) 
 	- Auskultation Pulmo, Stridor, Einziehungen, kreislaufentlastende Oberkörperhochlagerung (“beach-chair”)
 - Circulation (Kreislauf) 
-	- Auskultation Cor, Ödeme, Venenstauung, Pulse, BD, EKG, Schocklagerung
+	- Auskultation Cor, Ödeme, Venenstauung, Wadendruckschmerz (TVT), Pulse, BD, EKG, Schocklagerung
 - Disability (Defizit, neurologisches) 
-	- Neuro: Vigilanz, GCS, Meningismus/Lichtscheu, Pupillen, Nystagmus, Reflexe, 	  Babinski, Kraft, Armvorhalteversuch, Tremor, Finger-Nase-Versuch, 30°-Oberkörperhochlagerung (Hirnödem)
+	- Neuro: Vigilanz, GCS, Meningismus/Lichtscheu, Pupillen, Nystagmus, Halbseitenzeichen, Hirndruckzeichen, Hirnnervenausfälle, 	  Mimik, Kraft, Sensibilität, Armvorhalteversuch, Tremor, Diadochokinese, Finger-Nase-Versuch, 30°-Oberkörperhochlagerung (Hirnödem), Reflexe, Babinski; PNP (Vibrationssinn).
 	- Psy: Orientierung, Suizidgedanken, Einengung, Affizierbarkeit
 - Exposure/Environment (Exploration) 
-	- Trauma-Check mit MDS
-	- Haut: Exanthem, Turgor/Schleimhäute (Exsiccose), Verletzungen, 	  Prellmarken, Entzündungszeichen, Varizen
-	- Konjunktiven: Ikterus, Konjunktivitis
-	- BZ, Temperatur, Harn-/Stuhlabgang
-	- Abdomen: Appendizitiszeichen, 
+	- Trauma-Check mit MDS, Prellmarken, Krepitation, Gelenke
+	- Haut: Exanthem, Hautturgor/Schleimhäute (Exsikkose, Blässe), Verletzungen, 	  Prellmarken, Entzündungszeichen, Varizen
+	- Augen: Ikterus, Konjunktivitis, Ektropionieren, Visus (Fingerperimetrie)
+	- BZ, Temperatur/Fieber, Harn-/Stuhlabgang
+	- Abdomen: Abwehrspannung, Druckschmerz, Appendizitiszeichen (McBurney/Lanz, Psoasdehnung, Rovsing-Ausstreichen, Erhscütterungsschmerz)
+	- Wirbelsäule: Klopfschmerz, Skoliose, Muskelatrophien, Faszikulationen
+	- Uro: Nierenlager, Combur
 	- digital-rectale Untersuchung
-	- HNO: Otoskopie
-	- Lymphknoten
-	- Gangbild, Hüpftest (Appendizitis)
-
-
-<!-- 
-HNO-Inspektion: Otoskopie, Nase, Mund/ Rachen, LK-Status• Auskultation u. Perkussion Cor u. Pulmo• Augeninspektion  gerötete Konjunktiven? (DD Masern)• Gelenke  Schmerzen? Rötung?• Abdomen  Hepatosplenomegalie?• Haut  Exanthem? (DD Masern, Scharlach)• Neuro  Meningismus? Lichtscheu? Kopfschmerzen?
- 
- Allgemein: AZ? Hautturgor/ Schleimhäute, Fieber messen, RR/Puls• HNO-Inspektion: Otoskopie, Nase, Mund/ Rachen, LK-Status• Auskultation u. Perkussion Cor u. Pulmo• Augeninspektion  gerötete Konjunktiven? (DD Masern)• Gelenke  Schmerzen? Rötung?• Abdomen  Hepatosplenomegalie?• Haut  Exanthem? (DD Masern, Scharlach)• Neuro  Meningismus? Lichtscheu? Kopfschmerzen?
-Palpation, Perkussion des Abdomenso Abwehrspannung (Defence bei Peritonitis)o Druckschmerz am McBurney-Punkt, Lanz-Punkto Blumbergzeichen: Kontralateraler Loslassschmerzo Psoasdehnungsschmerz: Schmerz im rechten Unterbauch bei Anheben desgestreckten Beines in Rückenlageo Rovsing-Zeichen: retrogrades Ausstreichen des Kolonrahmens Dehnungsschmerz im Zökalbereich (selten)o Hüpftest: Schmerz im rechten UB beim Hüpfen auf einem Bein
-gynäkologische Untersuchung (Portioschiebeschmerz, Spiegeleinstellung#
-LK-Status inguinal, KS Nierenlager
-• Harn incl. SS-Test
-Neuro-Status (Meningismus, Hirndruckzeichen, Pupillen, Hirnnervenausfälle,Halbseitenzeichen, Vigilanz, Mimik, Sensibilität)
-Zungenbiß? Dehydratation? Anämie?
-Weber: Stimmgabel Stirnmitte → gesund – Ton im Mitte Rinne: Stimmgabel vor Ohr od. am Mastoid besser gehört?o Pos: vor Ohr besser gehört = gesund od. Innenohrschwerhörigkeito Neg: vor Ohr leiser = Mittelohrschwerhörigkeit
-PNP, Vibrationssinns
-Somatischer StatusNeurologisch: Motorik, Sensibilität, Durchblutung, Reflexe, Kraft, Zehen- Wadengang,Nervendruckmantel, Diadochokinese, Visus (ev. Augenarzt: Ausschluß Neuritis n. optici)Internistisch: Cor/Pulmo (RR, Puls, EKG), Wadendruckschmerz, Beinödeme
-Gangbild
-Druckschmerz, Krepitation
-Schwellung, Ödem, Überwärmung? Verletzungszeichen? Hämatome? Farbe (Blässe, Zyanose, Rötung)Haltung: Muskelatrophien?, Muskelfaszikulationen?
- 
- -->
+	- Lymphknoten (zerivkal, inguinal, axillär)
+	- Gangbild, Zehen/Fersengang, Hüpftest (Appendizitis)
+	- HNO: Otoskopie, Weber (Mittelohr↓: krankes Ohr; Innenohr↓: gesundes Ohr), Rinne (Ohr > Mastoid = pos: gesund oder Innenohr↓; neg: Mittelohr↓ )
+	- Gyn: Portioverschiebeschmerz, Spiegeleinstellung; b-hCG
  
 ## Befunde
 

@@ -29,3 +29,8 @@ Gewicht: kg
 - S = Severity. (Wie stark ist der Schmerz? VAS?)
 - T = Time. (Wie war der zeitliche Verlauf?)
 
+# B-Symptomatik
+
+- Gewichtsverlust (> 10 % in 6 Monaten)
+- Nachtschweiß (durchnässt)
+- Fieber (> 38°C)

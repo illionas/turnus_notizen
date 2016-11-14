@@ -36,11 +36,17 @@
 
 ## Pharmakologie
 
-* [PharmaWiki](http://www.pharmawiki.ch/wiki/index.php?wiki=ticagrelor)
+* [PharmaWiki](http://www.pharmawiki.ch/wiki/)
+
+* [Pharmazie.com](Pharmazie.com): Suche mit [Google](https://www.google.at/#q=site:pharmazie.com+filetype:pdf) oder [DuckDuckGo](https://duckduckgo.com/site:pharmazie.com%20filetype:pdf) am besten mit dem Zusatz-Syntax: `site:pharmazie.com filetype:pdf` zur Beschränkung auf die Seite und auf PDFs. Dann erhält man die Anwendungshinweise für Mediziner („Fachinformation“, FI).
+
+* Arzneispezialitätenregister (ASP-Register) des Bundesamt für Sicherheit im Gesundheitswesen (BASG) findet sich unter [aspregister.basg.gv.at](https://aspregister.basg.gv.at/) und enthält alle Fachinformationen als PDF.
 
 * [Embryotox.de](http://www.embryotox.de/wirkstoffe-auswahl.html)
 	- Die Pharmakovigilanz- und Beratungszentrum für Embryonaltoxikologie
 der Charité-Berlin bietet eine Übersicht über die Evidenz zu Medikamenten in der Schwangerschaft und Stillzeit (auch [nach Erkrankung gegliedert](http://www.embryotox.de/erkrankungen-auswahl.html)), inklusive besser erprobter Therapien und eine grobe Risikoabschätzung zur Teratogenität.
+
+* [Linksammlung der Apotherkerkammer Österreich](https://www.apotheker.or.at/internet/oeak/newspresse.nsf/e02b9cd11265691ec1256a7d005209ee/b40f0c32726a17e9c1256ab60035ebb8!OpenDocument)
 
 # Patientenmanagment
 
