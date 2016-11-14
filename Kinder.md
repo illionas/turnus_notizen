@@ -170,18 +170,21 @@ S: …ml einmalig und nach 4 Wochen einmalig
 
 *Kontraindikation: **Glaukom!***
 
-Nasivin 0,025% Nasentropfen für Kinder, OP 1;  
-S: 2–3 × täglich 1–2 Tropfen beidseits für max. 7 Tage
-> ab > 1 Jahr: 2-3 × täglich 1–2 Tropfen  
-> Schulkinder: 2-3 × täglich 2–3 Tropfen
+Nasivin sanft 0,025% Spray (oder Nasentropfen) für Kinder, OP 1;  
+S: 2-3 × täglich 1 Sprühstoß (bzw. 1–2 Tropfen) in jede Nasenöffnung, max. 7 Tage
+> ab 1 Jahr: 1 Sprühstoß (bzw. 1–2 Tropfen) > ab 6 Jahren: 2 Sprühstöße (bzw. 2–3 Tropfen)> bis 12 Jahre
+
+Nasivin Classic 0,05% Spray (oder Nasentropfen), OP 1;
+S: 2–3mal täglich 1 Sprühstoß (bzw. 1–2 Tropfen) in jede Nasenöffnung, max. 7 Tage
+> ab 6 Jahren
 
 Fentrinol Nasentropfen, OP 1;  
 S: 2–6 × täglich 2–3 Tropfen beidseits für max. 7 Tage
-> Alter: > 3 Jahren
+> ab 3 Jahren
 
 Flixonase für Kinder, OP 1;  
 S: 2 × Hub pro Tag
-> ab > 3. Lebensjahr
+> ab 3 Jahren  
 > Cortisonhaltiges Nasenspray, bei rezidivierender bzw. langanhaltender Otitis media
 
 
@@ -189,11 +192,12 @@ S: 2 × Hub pro Tag
 
 Benuron Zäpfchen …mg, OP 1;  
 S: bis zu … × täglich 1 Zäpfchen > 39,5°C oder Schmerzen
-> ED: 10-15mg/kg; MTD 60mg/kg
-> 75mg: > 0 Mo: 3-4kg: 1-2xtgl; 4-5kg: 1-3xtgl; > 6 Mo: 4kg: 1-3xtgl; 5-6kg: 1-4xtgl; 
-> 125mg: > 6 Mo: 1-3xtgl, > 9 Monate: 1-4xtgl
-> 250mg: > 2 Jahre: 1-3xtgl, > 4 Jahre: 1-4xtgl
-> 500mg: > 8 Jahre: 1-3xtgl,
+> `ED: 10-15mg/kg; MTD 60mg/kg`
+> 
+> 75 mg:  > 0 Mo: 3–4kg: 1–2 × tgl; 4-5kg: 1–3 × tgl; > 6 Mo: 4kg: 1–3 × tgl; 5-6kg: 1–4 × tgl;  
+> 125 mg: > 6 Mo: 1–3 × tgl, > 9 Monate: 1–4 × tgl  
+> 250 mg: > 2 Jahre: 1–3 × tgl, > 4 Jahre: 1–4 × tgl
+> 500 mg: > 8 Jahre: 1–3 × tgl,  
 
 Vortex Inhalationshilfe + Maske (Kindermaske = 1er Maske)
 
@@ -289,12 +293,26 @@ Vorerk.:
 
 Wiedervorstellung wenn nach 72h nicht fieberfrei 
 
-
-# DIVERSE REZEPTUREN:
+# Konjunktivitis
 
 Gentax Augentropfen, OP 1;  
-S: 3-4-6xtäglich 1 Tropfen bis 2 Tage nach Abklingen der Beschwerden
+S: 3-4-6 × täglich 1 Tropfen beidseits bis 2 Tage nach Abklingen der Beschwerden
 
+Refobacin Augentropfen, OP 1;  
+S: 4 × täglich 1 Tropfen beidseits bis 2 Tage nach Abklingen der Beschwerden
+
+# Laryngitis acuta
+
+Prednisoloni 100 mg  
+Adeps neutr. ad 1,0  
+3 Zäpfchen a 100 mg  
+S: für akute Laryngitis!! bis zu 3 Tage jeweils 1 × 1 Zäpfchen bei pfeifendem Atemgeräusch/Husten
+> entspricht Rectopred®
+
+
+
+
+# DIVERSE REZEPTUREN:
 
 Babyhaler Inhalationshilfe + Maske altersentsprechend; OP 1;  
 S: Lt. Anleitung 
@@ -307,18 +325,21 @@ Klacid orale Suspension 250mg/5 ml, OP 1;
 S: 2xtägl …ml tgl für 7 Tage
 
 
-Advantan Creme 0,1% OP 1;   à 15g, S: für einige Tage auf die betroffenen Hautstellen 1xtgl dünn auftragen
-(topisches Glucocortikoid: Methylprednisolon; max 4 Wochen; KI Kinder unter 4 Monaten! Risiko-Abwägung bis 3 Jahre!)
+Advantan Creme 0,1% OP 1 à 15g;
+S: für einige Tage auf die betroffenen Hautstellen 1 × täglich dünn auftragen
+> topisches Glucocortikoid: Methylprednisolon;  
+> max 4 Wochen;
+> **KI** Kinder unter 4 Monaten! Risiko-Abwägung bis 3 Jahre!
 
 Sultanol Inhalationslösung, OP 1;  
-S: 2–3 × tgl Feuchtinhalationen mit 4-6gtt Sultanol ad 2ml NaCl 0,9% via Pariboy/NebulAir, im Akutfall alle 2 h
+S: 2–3 × tgl Feuchtinhalationen mit 4–6gtt Sultanol ad 2ml NaCl 0,9% via Pariboy/NebulAir, im Akutfall alle 2 h
 
 Verordungsschein 
 Aerosolinhalator Pariboy junior für 3 Monate
 
 zusätzlich zu Sultanol-Inhalationslösungf
 Pari NaCl Ampullen (2,5ml) 
-OPI
+OP 1;  
 S: ad Inhalationen
 
 Rp/
@@ -335,9 +356,7 @@ Nasiben Nasentropfen
 OP 1;  
 S.2-3x1 für max. 7 Tage 
 
-Nasivin sanft 0,025% Spray für Kinder, OP 1;  
-S: 2-3 × täglich 1 Sprühstoß in jedes Nasenloch, max. 7 Tage
-(ab 1. Lj-6.Lj, ab 6.Lj 0,05%)
+
 
 Mucoclear 3% Ampullen
 OP 1;  
@@ -364,25 +383,17 @@ S: 3-4xtäglich 1 Pastille lutschen
 > ab 6 Jahren
 
 Aerius Lsg 0,5mg/ml
-OPI
+OP 1;  
 Kinder (1-5 Jahre): 1mal täglich 2,5 ml. Kinder (6-11 Jahre): 1mal täglich 5 ml. Jugendliche und Erwachsene: 1mal täglich 10 ml. 
 Aerius Tabletten
 Daktarin  orales Gel 
 OP 1;  
 S: 4 mal täglich für 1-2 Wochen
 
-Mundisal Gel 
-OP 1;  
-S: 3-4 mal täglich 1 cm
 
 Augmentin 457mg/5ml
 OP 1;  
 S: 3x2ml für 5 Tage
-
-
-Refobacin Augentropfen
-OP 1;  
-S: 4 × täglich 1 Tropfen ins betroffene Auge eintropfen – nach dem Abklingen der Rötung noch 2 Tage weiter anwenden
 
 AZYTER 15 mg/g - Augentropfen im Einzeldosisbehaeltnis 
 OP 1;  
@@ -409,50 +420,40 @@ SAB-Simplex - Tropfen
 OP 1;  
 S: bis zu 3x15-20 gtt
 
-Rectopred:
-Prednisoloni 100 mg
-Adeps neutr. ad 1,0
-3 Zäpfchen a 100 mg
-S: für acute Laryngitis!! bis zu 3 Tage jeweils 1×1 Zäpfchen bei pfeifendem Atemgeräusch/Husten
-Dibrondin Drg.
-OP 1;  
+Dibrondin Drg., OP 1;  
 S: 0-0-1
 
 Fenistil Tropfen, OP 1;  
-S: 10-15gtt bei Juckreiz bis 3  × täglich
+S: 10–15gtt bei Juckreiz bis 3  × täglich
 
 
-CUTIMIX - Schuettelmixtur 
-2-3mal täglich dünn auf erkrankte Hautpartien auftragen
+Cutimix Schüttelmixtur, OP 1;  
+S: 2–3mal täglich dünn auf erkrankte Hautpartien auftragen
 
-TANNOSYNT - Lotio 
+Tannosynt - Lotio 
 OP 1;  
 S: 1-2xtäglich dünn auf erkrankte Hautpartien auftragen
 
-MYCOSTATIN Zinkoxid – Paste
-OPI
+MYCOSTATIN Zinkoxid – Paste, OP 1;  
 S: zur lokalen Anwendung im Windelbereich
 
-HERVIROS – Loesung
-OPI
+HERVIROS – Loesung, OP 1;  
 S: vor den Mahlzeiten betroffene Stellen betupfen
 
-DYNEXAN 2% Mundgel
-OPI
+Dynexan 2% Mundgel, OP 1;  
 S: bis zu 4 mal täglich ein erbsengroßes Stück lokal auftragen und leicht einmassieren
 
 Infectoscab 5% Creme
-DS für 8-10 Stunden auftragen – danach sämtl Kleidungsstücke und Bettwäsche waschen!!!
+S: für 8–10 Stunden auftragen – danach sämtl Kleidungsstücke und Bettwäsche waschen!!!
 
 Novolizer Salbutamol Meda mit Inhalator
-S3-4  × tgl 2 Hub
+S: 3–4 × tgl 2 Hub
 
 
-Flixotide junior 50 Mikrogramm – Dosieraerosol
-OP 1;  
-S: 3  × Tägl 1Hb über die nächsten 4 Wochen
+Flixotide junior 50 Mikrogramm – Dosieraerosol, OP 1;  
+S: 3 × Tägl 1Hb über die nächsten 4 Wochen
 oder
-S: bis zu 2  × tägl 1 Hb
+S: bis zu 2 × tägl 1 Hb
 
 
 # Broschürendruck
