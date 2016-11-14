@@ -21,6 +21,7 @@ Gewicht: kg
 - R = Risk factors.
 
 ## OPQRST
+- N = New? (erstmalig?)
 - O = Onset. (Beginn der Symptome)
 - P = Palliation / Provocation. (Was verbessert die Schmerzen / Was verschlechtert sie?)
 - Q = Quality. (Wie fühlt es sich an?)

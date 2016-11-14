@@ -25,3 +25,12 @@ Abstrich zur Erregerbestimmung mit Antibiogramm (Resistenzen) bei Unklarheit##
 
 Symptome:1. rotes Auge2. starke Schmerzen3. Übelkeit, Erbrechen (Vagusreiz)4. Kopfschmerzen5. Visusverminderung, verschwommen Sehen6. harter Bulbus
 CAVE: Akute Erblindungsgefahr!
+# Glaukom
+## Medikamentöse Therapie
+### Prostaglandinanaloga
+- Xalatan® Augentropfen	- HW: verbessert uveoskleralen Abfluss	- IND: Weitwinkelglaukom, okuläre Hypertension (nicht komb. mit and. PG!)	- NW: Zilienwachstum, Irisverfärbung, Dunkelfärbung des Augenlides, Uveitis/Iritis, Makulaödem, Asthma, Haut, Kopfschmerzen, Herzklopfen, Muskel- und Gelenksschmerzen	- tgl. 1 x 1 gtt ins erkrankte Auge
+	### Beta-Blocker
+- Xalacom® Augentropfen (Latanoprost und Timolol) - Sympatholytika	- HW: Sekretionshemmer	- IND: Weitwinkelglaukom	- NW: bronchiale und kardiale NW (Asthma, COPD, HKL: Bradykardie),Kopfschmerzen, Exanthem, ZNS, Magen/Darm, verstärkteIrispigmentierung, Sehstörungen, Augenirritationen	- tgl. 1 x 1 gtt ins erkrankte Auge### Parasympathomimetika
+- Pilocarpin® (führen zu einer Miosis und vergrößern den Winkel)### Alpha-2-Agonisten
+- Alphagan® 0,2 % Augentropfen (Brimonidin)	- HW: Sekretionshemmer, verbessert uveoskleralen Abfluss	- IND: Weitwinkelglaukom, okuläre Hypertension, auch als Zusatztherapie	- NW: Mundtrockenheit, Kopfschmerzen, Müdigkeit, hohe Allergierate, HKL	- 2 x tgl. 1 gtt### Carboanhydrasehemmer
+- Diamox® 250 mg Tabletten (Acetazolamid)	- HW: Sekretionshemmer	- IND: sekundäres Glaukom, Ödeme (Hirnödem), Epilepsie, M. Ménière	- NW: Geschmacksstörung, Brennen, Parästhesien, Anorexie, Magen/Darm,ZNS, Diurese, Azidose, Elektrolytstörungen, Leber, Niere, Knochenmark	- initial: 2 Tbl., dann alle 4 Std. ½-1 Tbl, Dauerth.: ½-2 Tbl. tgl.

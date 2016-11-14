@@ -1,11 +1,21 @@
 ## COPD
 
-* Chronische Bronchitis: Auswurf zumindest 3 Monate lang in 2 aufeinander folgenden Jahren
-* Lungenemphysem: kleine Atemwege erweitert, Alveolarwände zerstört.
-* Chronische obstruktive Lungenerkrankung (COPD): chronisch progredienten Obstruktion der Atemwege
-* verschiedene Phänotypen
+> Chronische obstruktive Lungenerkrankung (COPD)
+
+1. chronische Bronchitis: Auswurf zumindest 3 Monate lang in 2 aufeinander folgenden Jahren
+2. Obstruktion der Atemwege
+3. Lungenemphysem: FEV1 ↓, (kleine Atemwege erweitert, Alveolarwände zerstört)
+
+verschiedene Phänotypen: blue bloater, pink puffer.
+
+Symptome („AHA“):
+
+- **A**: Auswurf
+- **H**: Husten
+- **A**: Atemnot
 
 Post-Bronchodilatator-FEV1 (bei FEV1-FVC-Verhältnis < 0,70):
+
 * GOLD 1: FEV1 ≥ 80 %
 * GOLD 2: FEV1 < 80 %
 * GOLD 3: FEV1 < 50 %
@@ -24,6 +34,8 @@ SABA und/oder SABA bei Bedarf.
 - GOLD B: LAMA oder LABA, (ggf. beide)
 - GOLD C: LABA+ICS oder LAMA+ICS, (ggf. 2er-Kombination aus LABA, LAMA, PDE4-H)
 - GOLD D: LABA+LAMA+ICS, (ggf. 2er-Kombination aus LABA, LAMA, PDE4-H; oder 3er-Kombination LABA/LAMA+PDE4+ICS)
+
+Impfungen gegen Influenza und Pneumokokken!
 
 #### Wirkstoffe
 
@@ -65,11 +77,11 @@ Summe aus 8 Frage mit jeweils Likert-Skala von 0 = „sehr gut“, bis 5 = „se
 
 ### mMRC
 
-Grad| Modified British Medical Research Council
----	| ---
-0:	| Dyspnoe bei schweren Anstrengungen
-I:	| Dyspnoe bei schnellem Gehen oder bei leichten Anstiegen
-II:	| Langsameres Gehen als Gleichaltrige aufgrund von Dyspnoe
-III:	| Dyspnoe bei Gehstrecke um 100 m
-IV:	| Dyspnoe beim An-/Ausziehen
+Grad | Modified British Medical Research Council
+---- | -----------------------------------------
+0:   | Dyspnoe bei schweren Anstrengungen
+I:   | Dyspnoe bei schnellem Gehen oder bei leichten Anstiegen
+II:  | Langsameres Gehen als Gleichaltrige aufgrund von Dyspnoe
+III: | Dyspnoe bei Gehstrecke um 100 m
+IV:  | Dyspnoe beim An-/Ausziehen
 

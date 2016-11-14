@@ -1,6 +1,26 @@
 # Herzinsuffizienz
 
+## NYHA-Klassifikation
+
+Nach der *New York Heart Association*.
+
+- NYHA I: Keine Einschränkung der Belastbarkeit. Vollständiges Fehlen von Symptomen.
+- NYHA II: Leichte Einschränkung der Belastbarkeit. Symptome bei stärkerer Belastung.
+- NYHA III: Starke Einschränkung der Belastbarkeit. Bereits bei leichter Belastung.
+- NYHA IV: Dauerhafte Symptomatik, auch in Ruhe.
+
+Symptome: 
+
+- Atemnot (Dyspnoe)
+- häufiges nächtliches Wasserlassen (Nykturie)
+- Zyanose
+- allgemeine Schwäche und Müdigkeit
+- Angina pectoris
+- kalte Extremitäten
+- Ödeme
+
 # med. Therapien
+
 * ACE/ARB
 * Aldosteron-Antagonisten
 * Betablocker
@@ -12,7 +32,7 @@
 
 - Dyspnoe, starke Ermüdbarkeit; Orhtopnoe, Husten im Liegen
 - DD: Myokarditis bei Z.n. Grippesymptomen? 
-- Klin: häufig tachycardie >90/min, Rhythmusstörungen (VHF, Extrasystolen), Halsvenenstauung, niedrige BD-Amplitude (< 25mmHg), Schwitzen, periphere Vasokonstriktion (kühle, blasse und
+- Klin: häufig tachycardie > 90/min, Rhythmusstörungen (VHF, Extrasystolen), Halsvenenstauung, niedrige BD-Amplitude (< 25mmHg), Schwitzen, periphere Vasokonstriktion (kühle, blasse und
   manchmal zyanotische Extremitäten), Volumsüberladung: Lungenstauung, periphere Ödeme, Jugularvenendruck
 
 >  keine asymptomatische HI, man spricht dann von einer linksventrikulären Dysfunktion
@@ -26,7 +46,7 @@ LVEF | Diagnose | Bedeutung
 
 
 Für HFmrEF und der HFpEF zusätzlich jeweils zwei Kriterien erforderlich:
-- Erhöhung der natriuretischen Peptide UND
+- Erhöhung der natriuretischen Peptide *und*
 - Vergrößerung des linken Vorhofs oder Ventrikels oder diastolischen Dysfunktion.
 
 	LVEF = Schlagvolumen / enddiastolischem Volumen des linken Ventrikels
