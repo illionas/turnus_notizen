@@ -48,6 +48,13 @@ der Charité-Berlin bietet eine Übersicht über die Evidenz zu Medikamenten in 
 
 * [Linksammlung der Apotherkerkammer Österreich](https://www.apotheker.or.at/internet/oeak/newspresse.nsf/e02b9cd11265691ec1256a7d005209ee/b40f0c32726a17e9c1256ab60035ebb8!OpenDocument)
 
+### Antibiotika
+
+* [Infektionsnetz des AKH Wien](http://infektionsnetz.at) (leider Registrierung und Login notwendig):
+  - Infektion
+  - Erreger
+  - Therapeutika
+
 # Patientenmanagment
 
 * [4PatientCare](https://4patientcare.com/)

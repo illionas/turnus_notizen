@@ -144,3 +144,15 @@ Summe des ABCD2-Score ergibt **Zwei-Tages-Risiko:**
 
 # Hirndruckzeichen
 - Starke Kopfschmerzen (v.a. morgens, die sich über den Tag hin bessern)- Verwirrtheit, Vigilanzstörung- Erbrechen- Neurologische Ausfälle (sensibel, motorisch)- Krampfanfall- Pupillenstörungen
+# Koma
+## smashed
+- S - Stroke (Schlaganfall)
+- M - Meningitis
+- A - Alkohol
+- S - Seizures (epileptischer Anfall)
+- H - „Hypo“ bzw. „Hyper“ (z.B. Hypoglykämie, Hypoxie, Hyperthermie, Hyponatriämie, Hypotonie, Hypothermie)
+- E
+	- Endokrine Ursachen (Addison-Krise, Thyreotoxikose),
+	- Enzephalitis oder
+	- Enzephalopathie (hepatisch, urämisch, hypertensiv)
+- D - Drugs (Intoxikationen), z.B. Barbiturate, Opiate, Benzodiazepine, Methanol, Kohlenmonoxid etc.

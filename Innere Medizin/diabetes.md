@@ -51,6 +51,8 @@
 
 > HbA1c-Werte kann man in mittlere Plasmaglukosewerte der letzten 6 Wochen umrechnen (siehe [Wikipedia HbA1c]). HbA1c sollte aber nicht zur Diagnose verwendet werden: nur 40% der Diabetiker werden erkannt!
 
+[Wikipedia HbA1c]: https://de.wikipedia.org/wiki/HbA1c
+
 ### oGTT (oraler Glukosetoleranz-Test)
 
 - bei Diabetesrisiko
@@ -132,4 +134,12 @@ Fokus auf *Glukosekontrolle*, aber auch:
 * Lixisenatide (Lyxumia® 1xtgl)
 * Dulaglutide (Trulicity® 1x wöchentl.)
 
-[Wikipedia HbA1c]: https://de.wikipedia.org/wiki/HbA1c
+# Polyneuropathie (PNP)
+
+1. Überprüfung von MDS2. Pulsstatus3. Reflexe (ASR fällt als erster aus)4. Vibrationssinn gestört5. EMG und NLG
+
+---
+
+* Schmerztherapie
+* *alpha-Liponsäure* bei diabetischer PNP
+* *Vitamin B1 und Vitamin B12* bei alkoholischer PNP (Neurobion® forte: B1, B6, B12)
