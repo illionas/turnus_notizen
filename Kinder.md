@@ -172,10 +172,12 @@ S: …ml einmalig und nach 4 Wochen einmalig
 
 Nasivin sanft 0,025% Spray (oder Nasentropfen) für Kinder, OP 1;  
 S: 2-3 × täglich 1 Sprühstoß (bzw. 1–2 Tropfen) in jede Nasenöffnung, max. 7 Tage
-> ab 1 Jahr: 1 Sprühstoß (bzw. 1–2 Tropfen) > ab 6 Jahren: 2 Sprühstöße (bzw. 2–3 Tropfen)> bis 12 Jahre
+> ab 1 Jahr: 1 Sprühstoß (bzw. 1–2 Tropfen) 
+> ab 6 Jahren: 2 Sprühstöße (bzw. 2–3 Tropfen)
+> bis 12 Jahre
 
 Nasivin Classic 0,05% Spray (oder Nasentropfen), OP 1;
-S: 2–3mal täglich 1 Sprühstoß (bzw. 1–2 Tropfen) in jede Nasenöffnung, max. 7 Tage
+S: 2–3mal täglich 1 Sprühstoß (bzw. 1–2 Tropfen) in jede Nasenöffnung, max. 7 Tage
 > ab 6 Jahren
 
 Fentrinol Nasentropfen, OP 1;  

@@ -1,5 +1,33 @@
 # Diabetes
 
+## Symptome
+
+- Symptome der *Hyperglykämie*.
+- Ab der „Nierenschwelle“ *Glukosurie* und deswegen *Polyurie*.
+- Aufgrund des Flüssigkeitsmangels
+	- *Gewichtsverlust*
+	- *trockene, juckende Haut*.
+	- *Sehstörungen* wegen wechselndem Turgor der Augenlinse.
+- Versuch des Flüssigkeit-Ausgleichs mit *Durst* und *Polydipsie*.
+
+---
+
+- Allgemeinsymptome
+  - Müdigkeit
+  - Antriebsarmut
+  - Kraftlosigkeit
+  - Juckreiz (oft genitoanal)
+- Haut
+  - Dermatitis
+  - Wundheilungsstörungen
+- Immunsystem
+  - häufigen Allgemeininfektionen
+  - Harnwegsinfekte
+- Nervensystem
+  - diabetische Neuropathie, insbesondere Polyneuropathie (PNP)
+  - Muskelfaszikulationen
+
+
 ## Diabetesformen 
 * Typ 1: Autoimmundiabetes, LADA;
 	* absoluter Insulinmangel, akuter Beginn, >80% Antikörper, häufig Ketoazidose durch Lipolyse
@@ -11,12 +39,12 @@
 * Typ 4: Gestationsdiabetes (GDM)
 
 ## Diagnose
-|  | Diabetes | Prädiabetes |
-|--|--|--|
-| Randomglucose | ≥ 200 mg/dl | - |
-| Nüchternglucose | ≥ 126 mg/dl | IFG: ≥ 100 mg/dl |
+|                   | Diabetes    | Prädiabetes      |
+|-------------------|-------------|------------------|
+| Randomglucose     | ≥ 200 mg/dl |               –  |
+| Nüchternglucose   | ≥ 126 mg/dl | IFG: ≥ 100 mg/dl |
 | oGTT: 2h (Plasma) | ≥ 200 mg/dl | IGT: ≥ 140 mg/dl |
-| HbA1c | ≥ 6,5 % | ≥ 5,7 % |
+| HbA1c             | ≥ 6,5 %     |          ≥ 5,7 % |
 
 * IFG (Impaired fasting glucose) konvertiert ohne Maßnahmen bei 50% innerhalb von 10 Jahren in manifesten Diabetes.
 * IGT (Impaired glucose tolerance) hat bereits kardiovaskuläres Risiko.
@@ -24,6 +52,7 @@
 > HbA1c-Werte kann man in mittlere Plasmaglukosewerte der letzten 6 Wochen umrechnen (siehe [Wikipedia HbA1c]). HbA1c sollte aber nicht zur Diagnose verwendet werden: nur 40% der Diabetiker werden erkannt!
 
 ### oGTT (oraler Glukosetoleranz-Test)
+
 - bei Diabetesrisiko
 - bei metabolischem Syndrom
 - bei IFG
@@ -43,11 +72,11 @@ Fokus auf *Glukosekontrolle*, aber auch:
 * Lifestyle
 * Plättchenhemmung
 
-| Zielwerte |  |
-|--|--|
-| HbA1c | ≤ 6,5 % (bis 8 oder 9 % möglich) |
-| Nüchternglucose | < 130 mg/dl (Ideal < 110 mg/dl) |
-| 2h postprandial | < 180 mg/dl |
+| Parameter       | Zielwert                         |
+|-----------------|----------------------------------|
+| HbA1c           | ≤ 6,5 % (bis 8 oder 9 % möglich) |
+| Nüchternglucose | < 130 mg/dl (Ideal < 110 mg/dl)  |
+| 2h postprandial | < 180 mg/dl                      |
 
 ### Metformin
 * ***First-Line!*** Glucophage®, Diabetex®, Meglucon®
