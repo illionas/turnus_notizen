@@ -154,3 +154,22 @@ Colspan and rowspan should fix all of them
 |    |     |     |
 +----+-----+-----+
 ```
+
+# Link Syntax
+
+Using the wikisyntax or Wiki-Creole Syntax for links i noticed, that they use the description the other way around than markdown. Obviously markdowns philosophy goes alone the lines of readability, whereas wikisyntax probably just went along the line of simplifying the `<a href="link">text</a>`
+syntax.
+
+| | |
+|---------|---|
+|markdown | `[text](example.com)`|
+|Creole |`[[example.com|text]]`|
+
+That made me think which one is “better” or the “right” one: i favor the text first method of markdown, because it is more readable as you can just skip the url and your eyes search for the closing symbol, whereas in creole your eyes have to find the starting symbol to be able to read the link.
+
+That's when i thought: “Why not indicate the directionality of the link?”, i.e. do it how you want to, but indicate which part represents the url. The angle brackets `<` and `>` would be a good option for this:
+
+	[[example.com < text]]
+	[[text > example.com]]
+	
+	

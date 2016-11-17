@@ -34,19 +34,19 @@ Diagnose mittels Gastroskopie + PE
 
 ### Tripple-Therapie
 
-Eradikationserfolg prüfen mittels C13-Atemtest.
-
-- französische Tripple-Therapie „PCA“ 7–14 Tage – *1. Wahl*
-	1. PPI in doppelter Standarddosierung
-	2. Clarithromycin 2 × 500 mg/d (Klacid®)
-	3. Amoxicillin 2 × 1000 mg/d (Ospamox®)
-- italienische Tripple-Therapie „PCM“ 7–14 Tage
-	1. PPI in doppelter Standarddosierung
-	2. Clarithromycin 2 × 250–500 mg/d (Klacid®)
-	3. Metronidazol 2 × 400–500 mg/d (Anaerobex®) – H.p. zu 30–50% resistent
-- kombinierte PCAM 7 Tage
+- **französische** Tripple-Therapie „PCA“ (7–14 Tage) – *1. Wahl*
+	1. *PPI* 2 × Standarddosierung
+	2. *Clarithromycin* 2 × 500 mg/d (Klacid®)
+	3. *Amoxicillin* 2 × 1000 mg/d (Ospamox®)
+- **italienische** Tripple-Therapie „PCM“ (7–14 Tage)
+	1. *PPI* 2 × Standarddosierung
+	2. *Clarithromycin* 2 × 250–500 mg/d (Klacid®)
+	3. *Metronidazol* 2 × 400–500 mg/d (Anaerobex®) – H.p. zu 30–50% resistent
+- kombinierte PCAM (7 Tage)
 	- Bei hoher Wahrscheinlichkeit für eine primäre Clarithromycin-Resistenz
 	- (mit Clarithromycin 2 × 500 mg/d)
+	
+Erfolg überprüfen: nach 6–8 Wochen *Gastroskopie* oder *C13-Atemtest* (vor C13-Atemtest PPI 2 Wochen absetzen).
 
 # Ulkus
 
@@ -131,23 +131,172 @@ Do-It-yourself Trinklösung[^apotheker]:
 > Clostridium difficile
 ### Komplikationen:1. Colon-Perforation2. toxisches Megakolon3. Ileus### Therapie:1. Wasser- und Elektrolyt-Haushalt ausgleichen2. Absetzen des auslösenden AB3. Metronidazol (Anaerobex®) 3 × 500 mg p.o. oder i.v. über 10 Tage4. bei schweren Verläufen: Vancomycin 4 x 125 mg p.o. zusätzlich zu Metronidazol
 # Reizdarmsyndrom
-Synonyme: irritable bowel syndrome, IBS
+Synonyme: RDS, irritable bowel syndrome, IBS
 Sehr häufig, 50%  der Pat. mit Magen-Darm-Beschwerden
-
-3 Varianten; im Vordergrund steht entweder:
-
-- Obstipation,
-- Diarrhö oder
-- Schmerzen
 
 Labor **normal** (inklusive BB, CRP, BSG, LFP, Amylase/Lipase, Hämoccult, Calprotectin, Wurmeier).
 
 ### ROM III Kriterien
 
-- 6 Monate
-- 
+- 12 Wochen Symptome während 6 Monaten
+- mindestens 2 Kriterien:
+	1. Besserung durch Defäkation
+	2. Beschwerden ändern Stuhlfrequenz
+	3. Beschwerden ändern Stuhlbeschaffenheit
 
+#### fakultative Symptome
 
-1. Besserung durch Defäkation
-2. Beschwerden ändern Stuhlfrequenz
-3. Beschwerden ändern Stuhlbeschaffenheit
+1. Stuhlgang < 3 ×/Woche <!--(Obstipation-Subtyp)-->
+2. Stuhlgang > 3 ×/Tag <!--(Diarrhö-Subtyp)-->
+3. harter oder schafskotartiger Stuhl <!--(Obstipation-Subtyp)-->
+4. breiiger/flüssiger Stuhl <!--(Diarrhö-Subtyp)-->
+5. große Anstrengung während des Stuhlgangs <!--(Obstipation-Subtyp)-->
+6. Stuhldrang <!--(Diarrhö-Subtyp)-->
+7. Gefühl der unvollendeten Darmentleerung
+8. weißlicher Schleim
+9. abdominelles Völlegefühl, distendiertes Abdomen
+
+3 Varianten; im Vordergrund steht entweder:
+
+- Obstipation (Symptome 1, 3, 5)
+- Diarrhö (Symptome 2, 4, 6) oder
+- Schmerzen
+
+## Therapie
+
+- Carminativa
+- bei Diarrhö evtl. temporär Loperamid (Enterobene®)
+- bei Obstipation Ballaststoffreiche Kost, reichlich Flüssigkeit, evtl. temporär milde Laxanzien
+- bei Schmerzen kurzfristig Spasmolytika (z. B. Buscopan®)
+
+# Sigmadivertikulitis
+
+### Eipdemiologie:
+
+Zivilisationskrankheit ← ballaststoffarme Ernährung, Bewegungsmangel
+
+Meist Sigmadivertikel (⅔ aller Fälle), meist Pseudodivertikel (Ausstülpung nur der Darmschleimhaut)
+
+### Klinik
+
+- Spontanschmerz
+- Tenesmen linker Unterbauch (**„Links-Appendizitis“**)- Stuhlunregelmäßigkeiten (Diarrhoe/Obstipation), Flatulenz- druckschmerzhaft Walze im linken Unterbauch
+### Komplikationen
+- gedeckte Perforation → Abszess
+- freie Perforation → Peritonitis
+- Stenose → Ileus
+- Blutungen
+- Fisteln
+
+### Differentialdiagnosen
+
+**cave:** Karzinom ausschließen!
+
+### Therapie
+
+- stationäre Aufnahme
+- Nahrungskarenz
+- Kühlen lokal
+- Antibiose
+- Perforation → OP, Mortalität † bei Not-OP hoch ↑
+
+# Kolorektalkarzinom (KRK)
+
+### Ätiologie
+
+- HNPCC, heräditäres nichtpolypöses Kolonkarzinom-Syndrom (= Lynch-Syndrom) (5%)
+	- autosomal dominant
+	- alter bei Auftreten des KRK ca. 45 Jahre
+	
+### Diagnose
+
+- 10% sind digital tastbar (DRU)
+- 60% in Rektosigmoidoskopie sichtbar
+- der Rest nur in Koloskopie!
+
+### Klinik
+
+- **keine zuverlässigen Frühsymptome!**
+- Blutbeimengung im Stuhl (vor allem Rektum-Karzinom) → ***cave:** nie Hämorrhoiden behandeln ohne DRU und Koloskopie!*
+
+# Analfissur
+
+### Therapie
+
+1. Stuhlregulation3. Lidocain Gel gegen die Schmerzen4. Scheriproct® supp (Prednisolon+Cinchocain), Haedensa® Salbe5. Bepanthen® Creme vor Defäkation, Vaseline®
+# Obstipation
+### Therapie
+
+- Allgemeinmaßnahmen
+	- Aufklärung
+	- Bewegung
+- Prophylaxe bzw. Therapieversuch für 4 Wochen
+	- Quellstoffe: Leinsamen, Flohsamen
+	- Ballaststoffe ()
+	- reichlich Wasser! 1,5–2 Liter/Tag, morgens vorbereiten
+- osmotische Laxantien
+	- Laktulose (Laevolac®): initial 1–2 Esslöffel, dann ½–1 Esslöffel täglich 
+	- Natriumsulfat (= Glaubersalz, Agaffin®)
+	- Magnesiumsulfat (= Bittersalz, )
+	- Macrogol (Molaxole®, Movicol®, Forlax®)
+- peristaltikstimulierende Präparate (insbesondere bei Opiattherapie), intermittierend
+	- Bisacodyl (Dulcolax®); **cave:** Elektrolytverlust bei Abusus
+- Gleitmittel p.o. (z. B. Parrafin-öl, selten verwendet ← NW: unwillkürlicher Stuhlabgang; Gefahr Aspirationspneumonie)
+- Einläufe
+	- Clysmol®
+
+# Zöliakie
+
+### Klinik
+
+- Diarrhöe
+- Gewichtsverlust/Gedeihstörung
+- Malabsorption
+
+### Diagnose
+
+- Dünndarmbiopsie mit Histo
+	- Zottenatrophie
+	- Kryptenhyperplasie,	- intraepitheliale Vermehrung der Lymphozyten
+- *Anti-Gliadin-Antikörper (AGA)*[^gliadin] sind sehr verdächtig auf eine Sprue
+- *Endomysium-Antikörper (EMA)*[^endomysium] sind diagnostisch beweisend, Titerhöhe zeigt Grad der Zottenatrophie  → aufwändiger Immunfluoreszenz-Test
+- *Gewebs-Transglutaminase-Antikörper (tTG)* (relevantes Antigen des Endomysiums) → standardisierter ELISA, kann anstelle von EMA bestimmt werden
+
+[^gliadin]: Gliadin ist Gluten-Bestandteil
+[^endomysium]: Endomysium ist eine Bindegewebsschicht
+
+### Therapie
+
+- strenge glutenfreie Diät lebenslang (Kartoffeln, Mais, Reis, Sojabohnen…)# Morbus Crohn
+> enterocolitis Regionalis
+Definition: diskontinuierlich segmentale Entzündung, auch tiefe Wandschichten
+### Klinik
+- Abominalsschmerzen
+- Durchfälle (meist *ohne* Blut)
+- **appendizitisartige-Symptome**: kolikartige Schmerzen rechter Unterbauch
+- leichte Temperaturen
+
+### Therapie
+
+#### Remissionsinduktion
+- topische Steroidtherapie
+	- Budesonid (Budenofalk®, Enterocort®) 3 × 3 mg/d 
+- systematisch bei versagen der topischen Therapie
+	- Prednisolon 30–60 mg/d, stufenweise Dosisreduktion wochenweise, Erhaltungsdosis 10 mg/2d für 3–6 Monate
+	- Erfolg: „Drittelregel“
+		1. ⅓ stabile Remission
+		2. ⅓ steroidabhängig (Prednisolon-Bedarf > 20 mg/d über > 3 Monate, Rückfall bei Ausschleichen)
+		3. ⅓ benötigt Immunsupressiva
+
+#### Rezidivprophylaxe
+- 30% Rezidiv innerhalb eines Jahres, 70% innerhalb von zwei Jahren
+- Prednisolon oder Mesalazin (=5-ASA, Pentasa®) *nicht* erfolgversprechend
+- ⅔ Dauerremission mit *Azathioprin* (Imurek®)
+
+# Colitis Ulcerosa
+
+### Klinik
+
+- **Blutig-schleimige Durchfälle** als Leistsymptom
+- Abdominalschmerzen, Tnesemen
+- eventuell Fieber

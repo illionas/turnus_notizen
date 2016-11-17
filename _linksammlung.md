@@ -38,7 +38,7 @@
 
 * [PharmaWiki](http://www.pharmawiki.ch/wiki/)
 
-* [Pharmazie.com](Pharmazie.com): Suche mit [Google](https://www.google.at/#q=site:pharmazie.com+filetype:pdf) oder [DuckDuckGo](https://duckduckgo.com/site:pharmazie.com%20filetype:pdf) am besten mit dem Zusatz-Syntax: `site:pharmazie.com filetype:pdf` zur Beschränkung auf die Seite und auf PDFs. Dann erhält man die Anwendungshinweise für Mediziner („Fachinformation“, FI).
+* [Pharmazie.com](Pharmazie.com): Suche mit [Google](https://www.google.at/#q=site:pharmazie.com+filetype:pdf) oder [DuckDuckGo](https://duckduckgo.com/site:pharmazie.com%20filetype:pdf) am besten mit dem Zusatz-Syntax: `site:pharmazie.com filetype:pdf` zur Beschränkung auf die Seite und auf PDFs. Dann erhält man die Anwendungshinweise für Mediziner („Fachinformation“, FI). Oft reicht auch das Schlagwort `Fachinformation` (eventuell in Kombination mit `pdf`).
 
 * Arzneispezialitätenregister (ASP-Register) des Bundesamt für Sicherheit im Gesundheitswesen (BASG) findet sich unter [aspregister.basg.gv.at](https://aspregister.basg.gv.at/) und enthält alle Fachinformationen als PDF.
 
@@ -54,6 +54,13 @@ der Charité-Berlin bietet eine Übersicht über die Evidenz zu Medikamenten in 
   - Infektion
   - Erreger
   - Therapeutika
+
+## Lernen
+
+### Merkhilfen
+
+* [Best of Eselsbrücken bei Dockcheck](http://news.doccheck.com/de/1927/best-of-eselsbrucken/)
+
 
 # Patientenmanagment
 
