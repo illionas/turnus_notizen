@@ -36,8 +36,16 @@ Fieber, Schüttelfrost, Juckreiz, Urticaria, seltener Blutdruckabfall und Atemno
 
 ## Aufklärung
 
-Mengelhafte oder fehlende Dokumentation ist einfachster juristischer Angriffspunkt: *"Wer schreibt, der bleibt."*
+Mangelhafte oder fehlende Dokumentation ist einfachster juristischer Angriffspunkt: *„Wer schreibt, der bleibt.“*
 
 > Ind: Anämie, bei …; Risiken und potentiell lebensbedrohliche Komplikationen besprochen, insbesondere AB0-Unverträglichkeit, Antikörper, Hämolyse, Ikterus, Organversagen, allerg. Reaktion, Schock, Infektion (HIV, Hep), Sepsis; selten bleibende Schäden bis Tod.
 > Pat. willigt mündlich und schriftlich (für gesamten stationären Aufenthalt) ein.
 > Derzeit keine Fragen. Patientenmerkmal: …
+
+# Hämolyseparameter
+
+- LDH
+- Haptoglobin
+- indirektes Bilirubin
+- Kalium (bei massiver Hämolyse)
+- freies Hämoglobin im Serum

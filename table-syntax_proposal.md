@@ -87,7 +87,7 @@ I think this could be nicely combined with the idea of *compressed pipe tables* 
 |= A1
  |= B1
  |= C1
- |= D1                        
+ |= D1             
 |  A2
  |  B2
  |  C2
@@ -104,32 +104,18 @@ Align could be incorporated into the header marker like this: `|:=` left align, 
 
 For rowspan I would suggest the "obvious" symbol for continuation, i.e. the three dots that form the "ellipsis" `...`. E.g. in the following example C2 and C3 would be merged into one cell that spans two rows.
 
-```
-|  A1  |  B1 |  C1  |  D1  |
-|------|-----|------|------|
-|  A2       ||  C2  |  D2  |
-|  A3  |  B3 |  ... |  D3  |
-```
+Visually i'd propose the exclamation mark (`!`), because of it's vertical nature and the arrow-like downwards pointing of the point below it. The full-stop would probably be used to often as the last symbol and therefore generate unwanted behavior of the table. 
+
+
+    |  A1  |  B1 |  C1  |  D1  |
+    |------|-----|------|------|
+    |  A2       ||  C2  |  D2  |
+    |  A3  |  B3        |  D3  |
 
 ## Nested Tables?
 
-are they even necessary? Should be very rare.
-Colspan and rowspan should fix all of them
-
-```
-| A1 | B1	| C1 | D1 |
-|----|----|----|----|
-| A2 | B2
-    |  |  A1  |  B1 |  C1  |  D1  | <!-- C2 --> 
-       |------|-----|------|------|
-       |  A2       ||  C2  |  D2  |
-       |  A3  |  B3 |  ... |  D3  |
-    
-    ||  A1  |  B1 |  C1  |  D1  |  <!-- D2 -->
-    ||------|-----|------|------|
-    ||  A2       ||  C2  |  D2  |
-    ||  A3  |  B3 |  ... |  D3  |
-```
+are they even necessary? Should be ~~very~~ extremely rare.
+Colspan and rowspan should fix nearly all of them.
 
 ```
 +----+-----------+
@@ -140,7 +126,8 @@ Colspan and rowspan should fix all of them
 |    |+----+----+|
 |    || B3 | C3 ||
 |    |+----+----+|
-+----+-----+-----+
+|    | text here |
++----+-----------+
 ```
 
 ```
@@ -153,6 +140,17 @@ Colspan and rowspan should fix all of them
 |    |  B3 | C3  |
 |    |     |     |
 +----+-----+-----+
+```
+
+```
+| A1 | B1	| C1 | D1 |
+|----|----|----|----|
+| A2 | B2
+    |  |  A1  |  B1 |  C1  |  D1  | <!-- C2 --> 
+       |------|-----|------|------| <!-- doesn't work! -->
+       |  A2       ||  C2  |  D2  |
+       |  A3  |  B3 |  ... |  D3  | 
+    | D2
 ```
 
 # Link Syntax

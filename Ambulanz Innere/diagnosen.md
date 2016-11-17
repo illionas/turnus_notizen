@@ -44,25 +44,27 @@ Homans-Zeichen: Dorsalflexion des Fußes löst Wadenschmerz aus
 Meyer-Zeichen: Druckdolenz am medialen Unterschenkels
 Payr-Zeichen: Druckdolenz mediale Fußsohle 
 
-Wells-Score für TVT: Aktives Karzinom (laufende Behandlung, im vergangenen Halbjahr oder palliativ) 1 
-Paralyse, Parese oder rezente Immobilisierung einer unteren Gliedmaße in einem Gipsverband 1 
-Rezente, länger als 3 Tage andauernde Bettruhe oder ein großer chirurgischer Eingriff innerhalb der letzten 4 Wochen 1 
-Lokalisierter Druckschmerz entlang des tiefen Venensystems 1
-Schwellung des gesamten Beins 1 
-Verglichen mit dem asymptomatischen Bein Wadenschwellung > 3 cm (Messung 10 cm unterhalb der Tuberositas tibiae) 1 
-Eindrückbares Ödem (ausgeprägter im symptomatischen Bein) 1 
-Oberflächliche Kollateralvenen (keine Krampfadern) 1 
+#### Wells-Score für TVT
+- Aktives Karzinom (laufende Behandlung, im vergangenen Halbjahr oder palliativ) 1 
+- Paralyse, Parese oder rezente Immobilisierung einer unteren Gliedmaße in einem Gipsverband 1 
+- Rezente, länger als 3 Tage andauernde Bettruhe oder ein großer chirurgischer Eingriff innerhalb der letzten 4 Wochen 1 
+- Lokalisierter Druckschmerz entlang des tiefen Venensystems 1
+- Schwellung des gesamten Beins 1 
+- Wadenschwellung > 3 cm verglichen mit dem asymptomatischen Bein  (Messung 10 cm unterhalb der Tuberositas tibiae) 1 
+- Eindrückbares Ödem (ausgeprägter im symptomatischen Bein) 1 
+- Oberflächliche Kollateralvenen (keine Krampfadern) 1 
 
 ## Lymphangitis
 
-Augmentin
-bei Allergie:
+Augmentin  
+bei Allergie:  
 Rp/ Dalacin 300mg 1-0-1 für 3 Tage
+> Wirkstoff Clindamycin
 
 
 ## Pulmonalembolie (PE)
 
-Wells-Score für PE:
+#### Wells-Score für PE:
 - Klinische Zeichen für eine tiefe Beinvenenthrombose 3 
 - Andere Diagnosen sind unwahrscheinlich 3 
 - Herzfrequenz > 100/min 1,5 
