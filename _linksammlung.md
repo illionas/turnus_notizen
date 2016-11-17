@@ -23,7 +23,7 @@
 	- individuelle **Risikoprognose für Herzinfarkt und Schlaganfall** anhand von Risikofaktoren und Laborwerten
 	- Wahrscheinlichkeit wird optisch demonstriert, die Effekte von Verhaltensänderungen oder medikamentöser Therapien werden anschaulich dargestellt
 
-* [PROCAM-Test](http://www.assmann-stiftung.de/procam-studie/procam-tests/)
+* Ergebnisse aus der “Prospective Cardiovascular Münster”  (PROCAM)  Studie  (auch “Münster  Heart  Study”) fließen in den [PROCAM-Test](http://www.assmann-stiftung.de/procam-studie/procam-tests/), der das Herzinfarktrisiko (bzw das Schlaganfallrisiko) erhebt.
 
 ## Hilfsmittel
 
