@@ -1,9 +1,9 @@
 # Anamnese
 
 > Allergien: 
+Dauermedikation: 
 Vorerkrankungen: 
 Voroperationen: 
-Dauermedikation: 
 Familienanamnese: 
 Pille: 
 Fumus: /d
@@ -30,7 +30,8 @@ Gewicht: kg
 - T = Time. (Wie war der zeitliche Verlauf?)
 
 # B-Symptomatik
-
 - Gewichtsverlust (> 10 % in 6 Monaten)
 - Nachtschweiß (durchnässt)
 - Fieber (> 38°C)
+
+weiters Leistungsknick, Müdigkeit, Mattheit, Abgeschlagenheit, ...
