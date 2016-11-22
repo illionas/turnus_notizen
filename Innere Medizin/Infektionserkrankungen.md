@@ -80,7 +80,7 @@ Inkubationszeit: 10–14 Tage Jugendliche, 50 Tage Erwachsene
 
 ### Prophylaxe
 - MMRV (ProQuad®, Priorix Tetra®) oder Varicellen-Impfung separat
-- Zostavax© ab 60.LJ
+- Zostavax© ab 60. Lebensjahr
 
 # Influenza
 
