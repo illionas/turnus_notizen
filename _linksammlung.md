@@ -19,6 +19,8 @@
 
 ## Scores
 
+* Systematic Coronary Risk Evaluation (SCORE) → [SCORE-Risk-charts](http://www.escardio.org/Education/Practice-Tools/CVD-prevention-toolbox/SCORE-Risk-Charts) bzw. interaktives tool auf [heartscore.org](http://heartscore.org/).
+
 * [Arriba-hausarzt.de](http://arriba-hausarzt.de/) (Absolutes und relatives Risiko – individuelle Beratung in der Allgemeinpraxis)
 	- individuelle **Risikoprognose für Herzinfarkt und Schlaganfall** anhand von Risikofaktoren und Laborwerten
 	- Wahrscheinlichkeit wird optisch demonstriert, die Effekte von Verhaltensänderungen oder medikamentöser Therapien werden anschaulich dargestellt
