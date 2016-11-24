@@ -99,8 +99,32 @@ oder
 	- Ausschleichen: 3 × jeden Tag abends, 3 × jeden zweiten Tag abends, 3 × jeden dritten Tag abends
 	- Hydrokortison (Hydroderm®) Säugling und Kleinkinder	- Methylprednisolonaceponat (Advantan®) Kinder	- Mometasonfuroat (Elocon®) Jugendliche
 
-
 ### Prognose- 60% der Kinder werden beschwerdefrei, 40% werden viele Jahre Probleme haben → keine verlässliche Prognose- nicht heilbar, aber gut behandelbar
+
+# Psoriasis vulgaris
+
+* erythematosquamöser Plaque, silbrig-weiße grobe Schuppung
+* **Streckseiten der Extremitäten**, Sakralregion, Kopfhaut
+* Jucken bei Exacerbation
+* Auspitz Phänomen = punktförmige Blutung nach Abheben einerSchuppe* Köbner Phänomen = Herde entlang Reizspur
+### Therapie
+1. Lokaltherapie
+2. PUVA (Psoralen und UVA)
+3. systemisch Biologicals, Metotrexat, etc.
+
+# Onychomykose
+
+Therapie:nur systemisch behandelbar!Zehen 4 Monate, Finger 3 Monate mit Sporanox®
+- bei geringem Befall: Nagel mit Harnstoffsalbe (40%) aufgelösen und lokal Antimykotikum (z.B. Bifonazol) oder Kombinationspräparat (z.B. Canesten-Extra®).
+- mehrerer Nägel oder ausgeprägt: systemische Therapie mit Antimykotika:
+	- **Itraconazol** (Sporanox® 100 mg-Kapseln)
+	- **Pulstherapie**: jeweils 2 × 2 Kapseln täglich für eine Woche, zwischen den Pulsen drei Wochen pausieren. Fingernägel: 2 Pulse. Zehennägel: 3 Pulse. In schweren Fällen zusätzlicher Puls.
+
+# Pityriasis versicolor
+
+Malassezia fufur (Hefepilz) - der Pilz hemmt toxisch die Melanin-Produktion
+
+* Lokal: Econazol (Pevaryl®) oder Clotrimazol (Canesten®) als Duschgel und/oder Lotion, evtl. Shampoo (2 × wöchentlich)* Ketokonazol (Fungoral®) p.o. – beugt Rezidiven vor* Itraconazol oder Fluconazol p.o. für 1 Woche bei starker Ausprägung
 
 # Periorale Dermatitis
 
@@ -145,12 +169,14 @@ Erbrechen.
 - Penicillin G (3 × 10 Mio.IE/d i.v.) *1. Wahl, weil hoch potent*
 - bei milder Erkrankung: Penicillin V (3 × 1,5 Mio. IE/d p.o. über 14 Tage)
 - Cefalexin (Ospexin®) 3 × 500–1000 mg/d
-- Clindamycin (Dalacin®) 3 × 300-600 mg/d 
 - bei Penicillinallergie:
+	- Clindamycin (Dalacin®) 3 × 300-600 mg/d 
 	- Makrolid: Clarithromycin (Klacid®) 2 × 500 mg/d
+	- Erythromycin
 
 Eintrittspforte behandeln → meist Tinea pedis
 
+Obliteration der Lymphgefäße → **Rezidivneigung**; Komplikation: chronisches Lymphödem
 
 # Lymphangitis
 
@@ -168,9 +194,10 @@ Streptokokken, ferner Staphylokokken
 erste Stadium der Borreliose
 
 ### Therapie
-- Penicillin V (Ospen®) 2–3 × 1–1,5 Mio.IE/d p.o. für 10–21 Tage*,
+
 - Amoxicillin (Ospamox®) 3 × 500–1.000 mg/d p.o. für 14–21 Tage*,
-- Cefuroxim/Axetil (Zinnat®) 2 × 500 mg/d p.o. für 20 Tage*,
-- Doxycyclin (Doxybene®) 2 × 100mg/d p.o. für 14–21 Tage*.
+- Doxycyclin (Doxybene®) 2 × 100 mg/d p.o. für 14–21 Tage*.
+- Penicillin V (Ospen®) 2–3 × 1–1,5 Mio.IE/d p.o. für 10–21 Tage*,
+- Cefuroxim (Zinnat®) 2 × 500 mg/d p.o. für 20 Tage* (Kinder)
 
 *) Laut [Infektionsnetz.at > Borelliose](http://infektionsnetz.at/view.php?name=InfektionenBorreliose#TextBlockZusatz1)

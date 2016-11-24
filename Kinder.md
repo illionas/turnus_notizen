@@ -387,6 +387,7 @@ Diagnose: 4 von 5 “crash”-Symptomen plus Fieber ≥ 5 Tage
 
 * Immunglobulin i.v.
 * ASS (sic!, cave: Reye Syndrom → Beobachtung)
+* Abklärung Koronaraneurysma! → Herzecho
 
 # DIVERSE REZEPTUREN:
 
