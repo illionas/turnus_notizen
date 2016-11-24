@@ -87,12 +87,43 @@ Mindestanfoderungen:
 
 ### First-line
 
-* **A/A** – ACE-Hemmer *oder* ARB
+* **A/A** – ACE-Hemmer (-pril) *oder* ARB (-sartan)
 	* ***cave:** ACE-Hemmer mit ARB **nicht kombinieren!** „AA ist kaka!“ (doppelte Mortalität †)* 
 	* bevorzugt bei Diabetes mit Proteinurie → Nephroprotektiv (Verlangsamung der Progression)
+	* ACE-Hemmer: -pril
+<!-- dockcheck
+Enalapril (Renitec®)	5-10
+Fosinopril
+Imidapril
+Lisinopril
+Moexipril
+Perindopril
+Quinapril
+Ramipril
+Spirapril
+Trandolapril
+ -->
+* ARB:
+<!-- dockcheck		
+>    Losartan
+    Valsartan
+    Candesartan (Prodrug: Candesartancilexetil)
+    Irbesartan
+    Eprosartan
+    Telmisartan
+    Olmesartan
+    Azilsartan (Prodrug: Azilsartanmedoxomil)
+-->
 * **B** – Betablocker 
 * **C** – Kalziumantagonisten
 * **D** – Thiazid-Diuretika
+
+### Kombinationen
+
+* A + A → **verboten!**
+* A / A / C / D → *bevorzugt*
+* B + D eventuell
+* sonst alle möglich (auch second-line)
 
 ### Second-line
 
@@ -111,11 +142,3 @@ Add-on bei resistant Hypertension:
 	* Spironolacton (Aldactone®, Spirobene®)
 	* Eplerenon (Inspra®)
 * Doxazosin (s.o.)
-	
-
-### Kombinationen
-
-* A + A → **verboten!**
-* A / A / C / D → *bevorzugt*
-* B + D eventuell
-* sonst alle möglich

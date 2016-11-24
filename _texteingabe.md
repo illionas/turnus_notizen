@@ -58,3 +58,8 @@ Die “englische” Form `^66^english^99^` überlappt mit der deutschen derart, 
 
 * Tabellen im Rohtext „formatieren“: [MarkdownTable.com](http://markdowntable.com/)
 * Tabellen erstellen (WYSIWYG): [TablesGenerator.com](http://www.tablesgenerator.com/markdown_tables)
+
+# Broschürendruck
+
+- ungerade
+- 4,2,8,6,12,10,16,14,20,18,24,22,28,26

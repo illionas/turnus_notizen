@@ -55,7 +55,7 @@ Kurzbefehl `KO`
 
     Kontrolle bei Nichtbesserung am _____ beim Kinderfacharzt oder hierorts am Vormittag (8-10 Uhr) in der Ambulanz. Bei akuter Verschlechterung Wiedervorstellung in der Kinderambulanz jederzeit möglich!
     
----
+----
     
     Vormittags Stuhlprobe für Calprotectin-Test abgeben (Röhrchen mitgegeben), Befund wird kommentiert zugeschickt.
 
@@ -146,7 +146,7 @@ Anamnese: Zeitpunkt, Höhe, Untergrund.
 	Kein Hinweis auf Rhino- oder Liquorrhoe.
 
 * Stationäre Aufnahme zur Observanz angeboten.
-* Observation durch die Eltern laut beiliegendem Infoblatt. (Revers unterschrieben).
+* Observation durch die Eltern laut beiliegendem Infoblatt nach ausführlicher Aufklärung. (Revers unterschrieben).
 * Bei Auffälligkeiten (Gangbild, Schwindel, Wesensveränderung, Erbrechen) Wiedervorstellung hierorts jederzeit!
 
 
@@ -170,14 +170,20 @@ S: …ml einmalig und nach 4 Wochen einmalig
 
 *Kontraindikation: **Glaukom!***
 
-Nasivin sanft 0,025% Spray (oder Nasentropfen) für Kinder, OP 1;  
-S: 2-3 × täglich 1 Sprühstoß (bzw. 1–2 Tropfen) in jede Nasenöffnung, max. 7 Tage
-> ab 1 Jahr: 1 Sprühstoß (bzw. 1–2 Tropfen) 
+Nasiben sanft 0,01% Dosiertropfer für Babies, OP 1;  
+S: 2-3 × täglich 1 Tropfen in jede Nasenöffnung, max. 7 Tage
+> bis 4 Wochen: 1 Tropfen  
+> ab 4 Wochen: 1–2 Tropfen  
+> Vorsicht bei untergewichtigen Säuglingen und Frühgeborenen > ab 1 Jahr: 1 Sprühstoß (bzw. 1–2 Tropfen) 
 > ab 6 Jahren: 2 Sprühstöße (bzw. 2–3 Tropfen)
 > bis 12 Jahre
 
+Nasivin sanft 0,025% Spray (oder Nasentropfen) für Kinder, OP 1;  
+S: 2-3 × täglich 1 Sprühstoß (bzw. 1–2 Tropfen) in jede Nasenöffnung, max. 7 Tage
+> ab 1 Jahr: 1 Sprühstoß (bzw. 1–2 Tropfen) 
+
 Nasivin Classic 0,05% Spray (oder Nasentropfen), OP 1;
-S: 2–3mal täglich 1 Sprühstoß (bzw. 1–2 Tropfen) in jede Nasenöffnung, max. 7 Tage
+S: 2–3 ×  täglich 1 Sprühstoß (bzw. 1–2 Tropfen) in jede Nasenöffnung, max. 7 Tage
 > ab 6 Jahren
 
 Fentrinol Nasentropfen, OP 1;  
@@ -192,40 +198,53 @@ S: 2 × Hub pro Tag
 
 # Fieber/Schmerzen
 
+## Paracetamol
+
 Benuron Zäpfchen …mg, OP 1;  
 S: bis zu … × täglich 1 Zäpfchen > 39,5°C oder Schmerzen
 > `ED: 10-15mg/kg; MTD 60mg/kg`
 > 
-> 75 mg:  > 0 Mo: 3–4kg: 1–2 × tgl; 4-5kg: 1–3 × tgl; > 6 Mo: 4kg: 1–3 × tgl; 5-6kg: 1–4 × tgl;  
-> 125 mg: > 6 Mo: 1–3 × tgl, > 9 Monate: 1–4 × tgl  
-> 250 mg: > 2 Jahre: 1–3 × tgl, > 4 Jahre: 1–4 × tgl
-> 500 mg: > 8 Jahre: 1–3 × tgl,  
+> 75 mg (Benuron): > 0 Mo: 3–4kg: 1–2 × tgl; 4-5kg: 1–3 × tgl; > 6 Mo: 4kg: 1–3 × tgl; 5-6kg: 1–4 × tgl;  
+> 125 mg (Benuron/Mexalen): > 6 Mo: 1–3 × tgl, > 9 Monate: 1–4 × tgl  
+> 250 mg (Benuron/Mexalen): > 2 Jahre: 1–3 × tgl, > 4 Jahre: 1–4 × tgl
+> 500 mg (Mexalen): > 8 Jahre: 1–3 × tgl,  
+> 1000 mg (Mexalen): > 12 Jahren (und mindestens 43 kg Körpergewicht): 1-2mal täglich 1 Zäpfchen
 
-Vortex Inhalationshilfe + Maske (Kindermaske = 1er Maske)
+Mexalen 200mg/5ml Sirup, OP 1  
+S: bis 4 × täglich … ml bei Fieber > 39,5°C oder Schmerzen
+> ED: `10–15 mg/kg`, bis zu 4 × täglich.  
+> ab 2 Jahre (ab 13kg): 5 ml Sirup (= 200 mg)  
+> ab 5 Jahre (ab 19kg): 7,5 ml Sirup (= 300 mg)  
+> ab 8 Jahre (ab 26kg): 10 ml Sirup (= 400 mg)  
+> ab 12 Jahre (ab 43kg): 12,5 ml Sirup (= 500 mg), max. 50 ml/TD (= 2000 mg)!  
 
+## Ibuprofen
 
 Nureflex 20mg/ml orale Suspension, OP 1;  
 S: bis zu 3 × täglich …ml bei Fieber > 39,5°C oder Schmerzen
-> Gewicht: >6kg:3ml; >9kg:4ml; >11kg:5ml; >14kg:6ml; >16kg:7ml; >18kg:8ml; >21kg:9ml; >23kg:10ml; >26kg:11ml; >28kg:12ml; >30kg:13ml; >33kg:14ml; >35kg:15ml; >38kg:16ml; >40kg:17ml; >42kg:18ml; <44kg;  
+> TD: `20–30mg/kg/TD / (20mg/ml) = 1–1,5ml/kg/TD` in 3–4 ED  
+> ED: `6,7–10mg/kg/ED / (20mg/ml) = 0,33–0,5ml/kg/ED`  
+> Tabelle aus der Ambulanz (25mg/kg/TD): >6kg:3ml; >9kg:4ml; >11kg:5ml; >14kg:6ml; >16kg:7ml; >18kg:8ml; >21kg:9ml; >23kg:10ml; >26kg:11ml; >28kg:12ml; >30kg:13ml; >33kg:14ml; >35kg:15ml; >38kg:16ml; >40kg:17ml; >42kg:18ml; <44kg;  
 > Orangen-Geschmack;
 
 Nureflex 40mg/ml orale Suspension, OP 1;  
 S: bis zu 3 × täglich …ml bei Fieber > 39,5°C oder Schmerzen
-> Gewicht: >6kg:1,5ml; >9kg:2ml; >11kg:2,5ml; >14kg:3ml; >16kg:3,5ml; >18kg:4ml; >21kg:4,5ml; >23kg:5ml; >26kg:5,5ml; >28kg:6ml; >30kg:6,5ml; >33kg:7ml; >35kg:7,5ml; >38kg:8ml; >40kg:8,5ml; >42kg:9ml; <44kg;  
+> TD: `20–30mg/kg/TD / (40mg/ml) = 0,5–0,75ml/kg/TD` in 3–4 ED  
+> ED: `6,7–10mg/kg/ED / (40mg/ml) = 0,17–0,25ml/kg/ED`  
+> Tabelle aus der Ambulanz (25mg/kg/TD): >6kg:1,5ml; >9kg:2ml; >11kg:2,5ml; >14kg:3ml; >16kg:3,5ml; >18kg:4ml; >21kg:4,5ml; >23kg:5ml; >26kg:5,5ml; >28kg:6ml; >30kg:6,5ml; >33kg:7ml; >35kg:7,5ml; >38kg:8ml; >40kg:8,5ml; >42kg:9ml; <44kg;  
 > Erdbeer oder Orange;
+
+Nureflex 60mg Zäpfchen, OP 1;  
+S: bis zu ... × täglich 1 Zäpfchen
+> 20–30mg/kg/TD in 3–4 ED
+> ab 3 Monaten (6kg)
+
+## Mefenaminsäure
 
 Parkemed 50mg/5ml Suspension zur oralen Anwendung, OP 1;  
 S: bis zu 3 × täglich …ml bei Fieber > 39,5°C oder Schmerzen
 > Nach Gewicht: ~6,5 mg/kg ED bis zu 3 × täglich; → `(6,5mg/kg) / (50mg/5ml) = 0,65ml/kg`.  
 > Nach Alter: ½-1 Jahr: 3 × täglich 1ML; 1-2 Jahre: 3 × täglich 1½ML; 2-5 Jahre: 3 × täglich 2ML; 5-9 Jahre: 3 × täglich 3ML; 9-12 Jahre: 3 × täglich 4ML; 12-14 Jahre: 3 × täglich 5ML
-
-Naproxen Saft 250mg/5ml, OP 1;  
-S: bis zu 2 × täglich …ml bei Fieber > 39,5°C oder Schmerzen
-> Alter: >1 Jahr  
-> *0,1ml/kg/ED bis 0,15ml/kg/ED*
-> TD 10-15 mg/kg KG in 2 ED, MTD 15 mg/kg KG.  
-> TD: `10 … 15 mg/kg/TD / (250mg/5ml) = 0,2 … 0,3 ml/kg/TD`;
-> ED: `0,2 … 0,3 ml/kg/TD / (2ED/TD) = 0,1 … 0,15 ml/kg/ED`;
 
 Parkemed 250mg Tabletten, OP 1;  
 S: bis 3 × täglich 1 Tablette
@@ -236,10 +255,22 @@ Parkemed 500mg Tabletten, OP 1;
 S: bis 3 × täglich 1 Tbl
 > ab 14 Jahren TD 500-1500mg
 
+
+## Naproxen
+
+Naproxen Saft 250mg/5ml, OP 1;  
+S: bis zu 2 × täglich …ml bei Fieber > 39,5°C oder Schmerzen
+> Alter: >1 Jahr  
+> *0,1ml/kg/ED bis 0,15ml/kg/ED*
+> TD 10-15 mg/kg KG in 2 ED, MTD 15 mg/kg KG.  
+> TD: `10 … 15 mg/kg/TD / (250mg/5ml) = 0,2 … 0,3 ml/kg/TD`;
+> ED: `0,2 … 0,3 ml/kg/TD / (2ED/TD) = 0,1 … 0,15 ml/kg/ED`;
+
+
 # Husten
 
 Prospan Hustensaft, OP 1;  
-S: 2,5 ml 3 mal täglich
+S: 2,5 ml 3 × täglich
 
 Infecto Dexa Krupp Saft 2mg/5ml, OP 1;  
 S: 1 × abends …ml bei „bellendem“ Husten
@@ -249,7 +280,7 @@ S: 1 × abends …ml bei „bellendem“ Husten
 
 # Mundsoor:
 Daktarin (Miconazol) orales Gel 2%, OP 1;  
-S: 3 mal täglich, nach dem Trinken und zusätzlich auf die Brustwarzen tupfen
+S: 3 × täglich, nach dem Trinken und zusätzlich auf die Brustwarzen tupfen
 
 oder 
 
@@ -311,10 +342,40 @@ Adeps neutr. ad 1,0
 S: für akute Laryngitis!! bis zu 3 Tage jeweils 1 × 1 Zäpfchen bei pfeifendem Atemgeräusch/Husten
 > entspricht Rectopred®
 
+# Allergie
+
+Aerius Lsg 0,5mg/ml, OP 1;  
+S: 1 × täglich 2,5 ml
+> ab 1 Jahr: 2,5 ml (= 1,25 mg)  
+> ab 6 Jahre: 5 ml (= 2,25 mg)    
+> ab 11 Jahre und Erwachsene: 10 ml (= 5 mg)  
+
+Aerius 2,5 mg Schmelztabletten, OP 1;  
+S: 1 × täglich 1 Tablette
+> ab 6 Jahren
+
+Aerius 5 mg Schmelztabletten, OP 1;  
+S: 1 × täglich 1 Tablette
+> ab 12 Jahren und Erwachsene
+
+# Soor
+
+Daktarin orales Gel, OP 1;  
+S: für 1-2 Wochen 4 × täglich ¼ Messlöffel Gel mit  einem  sauberen  Finger  auf  die  erkrankte  
+Mundschleimhaut auftragen, so  lange  wie  möglich im Mund behalten
+> Wirkstoff: Miconazol  
+> ab 4 Monate: ¼ Messlöffel Gel (= 31 mg Miconazol)
+> ab 2 Jahre: ½ Messlöffel Gel (= 62 mg Miconazol)
 
 
 
 # DIVERSE REZEPTUREN:
+
+Ultrabas
+Ultrasic
+aa ad 100g
+S: pflegesalbe
+
 
 Babyhaler Inhalationshilfe + Maske altersentsprechend; OP 1;  
 S: Lt. Anleitung 
@@ -344,9 +405,11 @@ Pari NaCl Ampullen (2,5ml)
 OP 1;  
 S: ad Inhalationen
 
-Rp/
 Sultanol Dosieraerosol, OP 1;  
 S: 4-6  × tagsüber plus ggf 1 × nachts bei Husten jeweils 2 Hübe mit Babyhaler
+
+Vortex Inhalationshilfe + Maske (Kindermaske = 1er Maske)
+
 
 Ceclor 375mg/5ml, OP 1;  
 S: 2 × tägl. ml für 5 Tage 
@@ -354,48 +417,34 @@ S: 2 × tägl. ml für 5 Tage
 Eusaprim Saft, S: abends 4 ml als Dauertherapie
 => MCU Dauerprophylaxe
 
-Nasiben Nasentropfen
-OP 1;  
-S.2-3x1 für max. 7 Tage 
-
-
-
-Mucoclear 3% Ampullen
-OP 1;  
+Mucoclear 3% Ampullen, OP 1;  
 S: 3-4 × täglich inhalieren
 
-XYLOCAIN 10% - Pumpspray 
-OP 1;  
-S: 3x1 bei Halsschmerzen
+Xylocain 10 % - Pumpspray, OP 1;  
+S: 3 × 1 bei Halsschmerzen
 
-PYRALVEX – Loesung
-OP 1;  
-S: 3-4xtäglich bei Halsschmerzen
+Pyralvex – Lösung, OP 1;  
+S: 3–4 × täglich bei Halsschmerzen
 
-TANTUM VERDE - Loesung zum Gurgeln    
-OP 1;  
-S: 2-3xtäglich bei Halsschmerzen
+Tantum verde - Lösung zum Gurgeln, OP 1;  
+S: 2–3 × täglich bei Halsschmerzen
 
-TANTUM VERDE - Mundspray 
-OP 1;  
-S: 2xtäglich
+Tantum verde - Mundspray, OP 1;  
+S: 2–6 × täglich 4 Sprühstöße
+> bis 6 Jahre: 1 Sprühstoß pro 4 kg, max. 4 Sprühstöße  
+> ab 6 Jahre: 4 Sprühstöße  
+> ab 12 Jahre: 8 Sprühstöße
+
 
 Tantum verde Pastillen 3mg, OP 1;  
-S: 3-4xtäglich 1 Pastille lutschen
+S: 3–4 × täglich 1 Pastille lutschen
 > ab 6 Jahren
 
-Aerius Lsg 0,5mg/ml
-OP 1;  
-Kinder (1-5 Jahre): 1mal täglich 2,5 ml. Kinder (6-11 Jahre): 1mal täglich 5 ml. Jugendliche und Erwachsene: 1mal täglich 10 ml. 
-Aerius Tabletten
-Daktarin  orales Gel 
-OP 1;  
-S: 4 mal täglich für 1-2 Wochen
 
-
-Augmentin 457mg/5ml
-OP 1;  
+Augmentin 457mg/5ml, OP 1;  
 S: 3x2ml für 5 Tage
+> OP 1 à 70ml
+> OP 1 à 140ml
 
 AZYTER 15 mg/g - Augentropfen im Einzeldosisbehaeltnis 
 OP 1;  
@@ -418,15 +467,14 @@ Tonsillol Gurgellösung
 OP 1;  
 S: 2-3xtäglich
 
-SAB-Simplex - Tropfen
-OP 1;  
+SAB-Simplex - Tropfen, OP 1;  
 S: bis zu 3x15-20 gtt
 
 Dibrondin Drg., OP 1;  
 S: 0-0-1
 
 Fenistil Tropfen, OP 1;  
-S: 10–15gtt bei Juckreiz bis 3  × täglich
+S: 10–15gtt bei Juckreiz bis 3 × täglich
 
 
 Cutimix Schüttelmixtur, OP 1;  
@@ -456,8 +504,3 @@ Flixotide junior 50 Mikrogramm – Dosieraerosol, OP 1;
 S: 3 × Tägl 1Hb über die nächsten 4 Wochen
 oder
 S: bis zu 2 × tägl 1 Hb
-
-
-# Broschürendruck
-ungerade
-4,2,8,6,12,10,16,14,20,18,24,22,28,26
