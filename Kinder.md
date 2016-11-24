@@ -368,6 +368,25 @@ Mundschleimhaut auftragen, so  lange  wie  möglich im Mund behalten
 > ab 2 Jahre: ½ Messlöffel Gel (= 62 mg Miconazol)
 
 
+# Kawasaki
+
+### Klinik
+
+Memo: “**crash** and burn”
+
+* **C**: Konjunktivitis mit Aussparung des Limbus
+* **R**: “rash” generalisiertes Exanthem
+* **A**: zervikale Adenopathie
+* **S**: “strawberry tongue” Erdbeerzunge, Lacklippen, Pharyngitis
+* **H**: Hand und Fuß: Schwellung und Rötung
+* **burn**: anhaltendes Fieber, nicht auf Antipyretika ansprechend
+
+Diagnose: 4 von 5 “crash”-Symptomen plus Fieber ≥ 5 Tage
+
+### Therapie
+
+* Immunglobulin i.v.
+* ASS (sic!, cave: Reye Syndrom → Beobachtung)
 
 # DIVERSE REZEPTUREN:
 
