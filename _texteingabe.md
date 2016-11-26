@@ -1,7 +1,5 @@
 # Texteingabe
 
-
-
 ## Sonderzeichen
 
 | Symbol | Verwendung  | Kürzel + `#` | Win      | Mac |
@@ -53,6 +51,15 @@ Die “englische” Form `^66^english^99^` überlappt mit der deutschen derart, 
 <http://typefacts.com/artikel/grundlagen/anfuehrungszeichen>
 
 # Markdown
+
+
+## Markdeep
+
+[Markdeep](http://casual-effects.com/markdeep) erlaubt durch einfaches Anfügen einer Javascript-Anweisung das Formatieren von Rohtext als Markdown! Einfach die Datei als `.md.html` speichern und im Browser öffnen.
+
+```
+<!-- Markdeep: --><style class="fallback">body{visibility:hidden;white-space:pre;font-family:monospace}</style><script src="markdeep.min.js"></script><script src="https://casual-effects.com/markdeep/latest/markdeep.min.js"></script><script>window.alreadyProcessedMarkdeep||(document.body.style.visibility="visible")</script>
+```
 
 ## Tabellen
 

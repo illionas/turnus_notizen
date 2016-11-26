@@ -114,8 +114,7 @@ oder
 
 # Onychomykose
 
-Therapie:nur systemisch behandelbar!Zehen 4 Monate, Finger 3 Monate mit Sporanox®
-- bei geringem Befall: Nagel mit Harnstoffsalbe (40%) aufgelösen und lokal Antimykotikum (z.B. Bifonazol) oder Kombinationspräparat (z.B. Canesten-Extra®).
+### Therapie- bei geringem Befall: Nagel mit Harnstoffsalbe (40%) aufgelösen und lokal Antimykotikum (z.B. Bifonazol) oder Kombinationspräparat (z.B. Canesten-Extra®).
 - mehrerer Nägel oder ausgeprägt: systemische Therapie mit Antimykotika:
 	- **Itraconazol** (Sporanox® 100 mg-Kapseln)
 	- **Pulstherapie**: jeweils 2 × 2 Kapseln täglich für eine Woche, zwischen den Pulsen drei Wochen pausieren. Fingernägel: 2 Pulse. Zehennägel: 3 Pulse. In schweren Fällen zusätzlicher Puls.
@@ -180,6 +179,8 @@ Obliteration der Lymphgefäße → **Rezidivneigung**; Komplikation: chronisches
 
 # Lymphangitis
 
+roter Strich, peripherer Enzündungsherd, Lymphknotenschwellung?
+
 Streptokokken, ferner Staphylokokken
 
 ### Therapie
@@ -201,3 +202,35 @@ erste Stadium der Borreliose
 - Cefuroxim (Zinnat®) 2 × 500 mg/d p.o. für 20 Tage* (Kinder)
 
 *) Laut [Infektionsnetz.at > Borelliose](http://infektionsnetz.at/view.php?name=InfektionenBorreliose#TextBlockZusatz1)
+
+
+# Ulcus cruris
+
+### Klinik
+
+- Venöses Ulkus
+	- Lokalisation: Innenknöchel, med. US	- Aspekt: Stauungsdermatose, Ödeme	- Schmerz: Spannung- Arterielles Ulkus:
+	- Lokalisation: Druckstellen z.B. Ferse, Zehen	- Aspekt: kühle Haut, livide, Fußpulse fehlen	- schmerzhaft- Polyneurop. Ulkus:
+	- Lokalisation: Fußsohle, Großzehenballen (→ Mal perforans)	- Aspekt: Haut warm, rosig, da Sympathikus mitbetroffen	- kein Schmerz- Ulkus mixtum:
+	- Lokalisation: Innenknöchel, med. US	- Aspekt: Stauungsdermatose, livide Farbe	- schmerzhaft## venöses Ulcus
+Ätiologie: Varikose, postthrombotisches Syndrom, fehlende Muskelpumpe
+- I°: Corona phlebectatica (Besenreiserartige Venektasien in der Knöchelgegend)- II°: Ödem, Ekzem, Pigmentverschiebungen, Dermatosklerose, Atrophie blanche- III°: florides oder abgeheiltes Ulcus cruris### Therapie- CVI: Kompressionsverband (Kurzzugbinden, Fischerverband, Kompressionsstrumpf Kl II)- pAVK: Gehtraining, operative Revaskularisation, Hämodilution- PNP: Fußentlastung, medizinische Fußpfelge, gründliche Inspektion auf Verletzungen- Ulkus mixtum: peripher Perfusionsdruck < 80 mmHg = Kontraindikation für Kompression
+# Thrombophlebitisumschriebene strangförmige, entzündlich gerötete und schmerzhafte Schwellung (Thrombus lässtsich nicht komprimieren)### Therapie:1. Kompressionsstrümpfe, zusätzlich abpolstern mit Schaumstoff3. Analgetika und Antiphlogistika p.o.4. mobil bleiben!!!
+2. ev. Incision und Exprimieren von Thromben5. in Einzelfällen: therapeutische Antikoagulation, Notfalls-Crossektomie
+# Malignes melanom
+- A Asymmetrie- B Border: unscharf begrenzt- C Colour : je mehr Farben, desto schlechter(variables Pigmentmuster)- D Diameter: > 5 mm- E Evolution: rasches Wachstum, gespannte OFL,verstrichenes Hautrelief
+
+### Therapie
+- Excision mit Sicherheitsabstand (1 cm; > 1 mm: 2 cm)- Prognose: < 1 mm: gut, > 5 mm: schlecht
+- Breslow-Index in mm, Clark-Index nach Hautschichten
+
+# Gonorrhoe
+
+→ STD
+
+> Neisseris gonorrhoeae (Gram negative Diplokokken)
+
+- purulenter Fluor und Dysurie
+- ♂: Urethritis anterior  posterior, Prostatitis, Epididymitis- ♀: Urethra, Cervix: Urethritis, Cervicitis, Endometritis, Salpingitis, Perihepatitis gonorrhoica (Fitz Hugh Curtis)
+häufig Dreifachinfektion : Chlamydien, Mykoplasmen und Gonokokken
+- *1. Wahl*: Cephalosporin- Cefixim (Tricef®, Aerocef®) 400 mg, Ciprofloxacin (Ciproxin) 500 mg, Azithromycin 1 g als Einzeldosis (80 % der Keime sind penicillinempfindlich)- Partnerbehandlung!- Kontrollabstrich nach erfolgter Therapie (nach 1 Woche)
