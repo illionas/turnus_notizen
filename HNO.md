@@ -75,3 +75,73 @@ gerötetes, mattes, ev. vorgewölbtes oder perforiertes Trommelfell
 ## Seitenstrangangina
 > Angina lateralis
 Therapie wie Angina tonsillaris
+## Tonsillektomie
+- rezidizvierende Angina
+  - ≥ 7/Jahr in 1 Jahr
+  - ≥ 5/Jahr in 2 Jahren
+  - ≥ 3/Jahr in 3 Jahren
+- nicht vor 6 Jahre (wegen der hohen Mortalität)
+
+# Schwindel
+
+1. Drehschwindel
+	- „Karussell“, „dreht sich“
+2. Sekundenschwindel
+	- präsynkopales Gefühl, „kippe gleich um“
+	- ohne Prodromi: bradykarde Rhythmusstörungen, Carotissinus
+	- mit Prodromi: Orthostase, tachykarde Rhythmusstörungen 
+3. Raumunsicherheit
+	- „taumelig“, „schwanken“
+4. Gangunsicherheit
+	- „torkelig“ 
+	- PNP
+	- somatoform-phobisch
+	- vaskuläre Enzephalopathie
+	- multimodal
+
+### Gefährliche Verläufe
+
+- Hirnstamm/Kleinhirn-Insult
+	- plötzlicher Beginn
+	- Kopfschiefhaltung
+	- Doppelsehen
+- Herzrhythmusstörungen
+
+---
+
+- heftig, mit Erbrechen → peripher vestibulär
+- schwarzwerden vor Augen → Synkope
+- bei Kopfdrehung → sensibler Karotissinus
+- bei Armhebung → Subclavian Steal
+- bei Seitenlagerung → benigner Lagerungsschwindel
+- ängstliche Schilderung → Hinweis auf psychogen
+	
+## Ursachen
+
+90 % der Ursachen:
+
+1. somatoform-phobisch
+2. multimodal postural geriatrisch
+3. benigner Lagerungssschwindel
+4. Orthostase, Blutdruck
+5. PNP
+6. Intoxication, Medikamente
+
+## benigner paroxysmaler Lagerungsschwindel
+
+- meist > 40 Jahre
+- Schwindeldauer wenige Sekunden
+- Drehschwindel
+- bei Hinlegen, zur Seite drehen im Bett
+
+<!--  -->
+
+1. Diagnose: Hallpike-Lagerungsprobe
+2. Therapie: Epley-Manöver
+
+# Morbus Menière
+
+- Dauerdrehschwindelattacken über Stunden
+- Übelkeit/Erbrechen
+- einseitige Hörminderung (Tieftonbereich)
+- Tinnitus,

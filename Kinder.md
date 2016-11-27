@@ -524,3 +524,9 @@ Flixotide junior 50 Mikrogramm – Dosieraerosol, OP 1;
 S: 3 × Tägl 1Hb über die nächsten 4 Wochen
 oder
 S: bis zu 2 × tägl 1 Hb
+
+Motilium 1 mg/ml Lösung, OP 1;
+S:
+> 3 × 0,25 mg/kg  
+> Wirkstoff: Domperidon
+> passiert Blut-Hirn-Schranke nicht → keine EPS (im Gegensatz zu Metoclopramid)

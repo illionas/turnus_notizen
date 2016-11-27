@@ -220,10 +220,10 @@ bakteriostatisch, Bindung an 50S-Einheit, Hemmung der Peptidyltransferase
 * Roxithromycin, p.o.
 
 Spektrum ähnlich Penicillin G und V
-zusätzlich gegen H. Influenzae und intrazelluläre wie Clamydien, Mykoplasmen Legionellen und Listerien.
+zusätzlich gegen H. Influenzae und intrazelluläre wie Clamydien, Mykoplasmen, Legionellen und Listerien.
 Schraubenförmige wie Treponemen, Campylobakter, Borrelien.
 
-Clarithromycin, Azithromycin 1.W gegen Mykobakterium avium
+Clarithromycin, Azithromycin 1. Wahl gegen Mykobakterium avium
 
 IND bakt Atemwegsinfekte, Geschlechtskrankheiten → alternative bei Penicillin-Allergie
 

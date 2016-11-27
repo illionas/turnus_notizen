@@ -11,7 +11,7 @@
 - Pruritus
 
 ### Impfung
-
+ 
 - Twinrix® (Hep A und Hep B)
 - Hepatitis A: 0/6 Monate → Schutz für 10 Jahren
 - Hepatitis B: 0/1/6 Monate → Schutz für 10 Jahre bei Titer ≥100 IE/L (nach 1–2 Monate bestimmen)

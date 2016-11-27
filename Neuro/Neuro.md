@@ -106,10 +106,15 @@ Kontraindikationen:
 - Acetylcholinesterase-Hemmer: ab MMSE ≤ 27 Pkt. Donepezil (Aricept®), Rivastigmin (Exelon®), Memantin (Ebixa®)- Nootropika: in Wirksamkeit umstritten (Gingko, Nootropil)
 # Insult
 
-## Symptome| Lokalisation            | Diagnostische Hinweise |
-|-------------------------|------------------------|
-| Großhirnhemissphären    | kontralaterale sensomotorische HS-Symptomatik, neuropsycholog. Defizite (Aphasie, Agnosie, Apraxie), Hemianopsie, extrapyramidale Symptome  || Kleinhirn               | Ataxie, Schwindel, Fallneigung || Hirnstamm| Alternanssymptome (Hirnnervenausfälle auf der befallenen Kopfseite und Ausfälle der langen Bahnen auf der gegenüberliegenden Seite), Bewusstseinsstörungen, Hemiataxie, bilaterale pos. Pyramidenbahnzeichen, homonyme Hemianopsie, Nystagmus, Dysarthrie, Schwindel, Kopfschmerzen || A. cerebri media        | kontralaterale, brachiofazial betonte sensomotorische Hemiparese (Wernicke Mann), Hemianopsie, Aphasie, wenn sprachdominate Hemisph. betroffen ist || A. cerebri ant.         | Beinbetonte sensomotorische Hemiparese, Gangapraxie, zebrale Harninkontinenz |
-| A. cerebri post.        | Hemihypästhesie, homonyme Hemianopsie, Dyslexie wenn dominante Seite betroffen || Stenose der A. carotis int. mit rez. Embolien| Ipsilaterale Amaurosis fugax, evtl. Kontralaterale Symptome wie bei Verschluss der A. cerebri media |
+## Symptome| Lokalisation                                  | Diagnostische Hinweise                                                                                                                                                                                                                                                               |
+|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Großhirnhemissphären                          | kontralaterale sensomotorische HS-Symptomatik, neuropsycholog. Defizite (Aphasie, Agnosie, Apraxie), Hemianopsie, extrapyramidale Symptome                                                                                                                                           |
+| Kleinhirn                                     | Ataxie, Schwindel, Fallneigung                                                                                                                                                                                                                                                       |
+| Hirnstamm                                     | Alternanssymptome (Hirnnervenausfälle auf der befallenen Kopfseite und Ausfälle der langen Bahnen auf der gegenüberliegenden Seite), Bewusstseinsstörungen, Hemiataxie, bilaterale pos. Pyramidenbahnzeichen, homonyme Hemianopsie, Nystagmus, Dysarthrie, Schwindel, Kopfschmerzen |
+| A. cerebri media                              | kontralaterale, **brachiofazial** betonte sensomotorische Hemiparese (Wernicke Mann), Hemianopsie, Aphasie, wenn sprachdominate Hemisph. betroffen ist                                                                                                                                   |
+| A. cerebri ant.                               | **beinbetonte** sensomotorische Hemiparese, Gangapraxie, zebrale Harninkontinenz                                                                                                                                                                                                         |
+| A. cerebri post.                              | Hemihypästhesie, **homonyme Hemianopsie**, Dyslexie wenn dominante Seite betroffen                                                                                                                                                                                                       |
+| Stenose der A. carotis int. mit rez. Embolien | Ipsilaterale **Amaurosis fugax**, evtl. Kontralaterale Symptome wie bei Verschluss der A. cerebri media                                                                                                                                                                                  |
 
 ## Therapie
 
@@ -126,15 +131,16 @@ Kontraindikationen:
 Stationäre Diagnostik und Sekundärprävention innerhalb 24 Stunden
 
 
-### ABCD2-Score
+#### ABCD2-Score
 
-|  | Risikofaktor | Kriterium | Punkte |
-|--|--|--|--|
-| A | Alter | ≥ 60 Jahre | 0 → 1 |
-| B | Blutdruck | >140/90 | 0 → 1
-| C | Klinik | Sprachstörung; einseitige Schwäche | 0 → 1 → 2
-| D | Dauer | > 10 min; ≥ 1 h | 0 → 1 → 2
-| 2 | Diabetes | bestehend | 0 → 1
+|   | Risikofaktor | Kriterium                          | Punkte    |
+|---|--------------|------------------------------------|-----------|
+| A | Alter        | ≥ 60 Jahre                         | 0 → 1     |
+| B | Blutdruck    | >140/90                            | 0 → 1     |
+| C | Klinik       | Sprachstörung; einseitige Schwäche | 0 → 1 → 2 |
+| D | Dauer        | > 10 min; ≥ 1 h                    | 0 → 1 → 2 |
+| 2 | Diabetes     | bestehend                          | 0 → 1     |
+
 
 Summe des ABCD2-Score ergibt **Zwei-Tages-Risiko:**
 
@@ -156,3 +162,9 @@ Summe des ABCD2-Score ergibt **Zwei-Tages-Risiko:**
 	- Enzephalitis oder
 	- Enzephalopathie (hepatisch, urämisch, hypertensiv)
 - D - Drugs (Intoxikationen), z.B. Barbiturate, Opiate, Benzodiazepine, Methanol, Kohlenmonoxid etc.
+
+# Dermatome
+
+- Thenar C 6- Hypothenar C 8- Brustwarze Th 4- Nabel Th 10- Leiste L 1- Kniescheibe L 4- Fußsohle S 1- Reithose S 2-5
+# Reflexe
+- RPR C5- BSR C6- TSR C7- PSR L4

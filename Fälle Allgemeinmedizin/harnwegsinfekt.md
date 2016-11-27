@@ -36,10 +36,10 @@ Bei Fieber 10–14 Tage, hohes Fieber: i.v. !
 
 ### Erste Wahl, unkomplizierte Zystitis:
 
-- Fosfomycin (Monuril®) 3 g einmalig p.o.
-- Nitrofurantoin (Furadantin®) 100 mg p.o. 1-0-1 für 3 Tage (cave: **teratogen!**)
+- **Fosfomycin (Monuril®)** 3 g einmalig p.o.
+- **Nitrofurantoin (Furadantin®)** 100 mg p.o. 1-0-1 für 3 Tage (cave: **teratogen!**)
 	- chronisch/rezidivierend: 1-0-1 für 7 Tage
-- Pivmecillinam (Selexid®) 200 mg p.o. 2-0-2 für 3 Tage (> 6 Jahre / > 20 kg)
+- **Pivmecillinam (Selexid®)** 200 mg p.o. 2-0-2 für 3 Tage (> 6 Jahre / > 20 kg)
 	- akute komplizierte HWI: 3 × 1 für 5–10 Tage, chronisch/rezidivierend: 3–4 × 1–2 für 7–14 Tage, ABU oder SS: 3 × 1 für 7 Tage)
 - unkompliziert ggf. Therapieverzicht möglich
 - nicht gebärfähige 5 Tage
@@ -84,3 +84,9 @@ komplizierter HWI:
 
 - Sonographie: bei Rezidiven (> 2 × pro Jahr), V.a. Urolithiasis, V.a. Restharn
 - Facharzt: Kinder (Fehlbildungen?), Männer ♂, Urolithiasis, rezidivierende Pyelonephritis
+
+# Pyelonephritis
+
+1. Fieber, Schüttelfrost, AZ↓2. Dysurie3. KS im Nierenlager (Flankenschmerz)
+### Therapie
+* Ciprofloxacin 2 × 500 mg über 7-10 Tage (Ciproxin®)* Levofloxacin 1 × 500 mg über 7-10 Tage (Tavanic®)
