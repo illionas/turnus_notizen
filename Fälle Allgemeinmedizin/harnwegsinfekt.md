@@ -31,7 +31,7 @@ aufsteigende Symptomatik → Pyelonephritis: Flankenschmerz, ± Übelkeit/Erbrec
 Merke: asymptomatische Bakteriurie (ABU) → keine Therapie (außer während Schwangerschaft)
 
 Schmerztherapie, ggf. Spasmolytikum
-1qq
+
 Bei Fieber 10–14 Tage, hohes Fieber: i.v. !
 
 ### Erste Wahl, unkomplizierte Zystitis:
