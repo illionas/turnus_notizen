@@ -21,14 +21,15 @@ Post-Bronchodilatator-FEV1 (bei FEV1-FVC-Verhältnis < 0,70):
 * GOLD 3: FEV1 < 50 %
 * GOLD 4: FEV1 < 30 %
 
-Patientengruppen
-
-- GOLD 3+4 oder ≥ 2 Exacerbationen in 12 Monaten: GOLD C, sonst GOLD A
-- CAT ≥ 10 oder mMRC ≥ 2: A → B, C → D
+#### Patientengruppen
+1. **FEV1 oder Exacerbationen:**
+    - GOLD 3+4 (FEV1 < 50 %) oder ≥ 2 Exacerbationen in 12 Monaten: GOLD C → **ICS dazu**
+    - sonst GOLD A
+2. **Symptomatik:** CAT ≥ 10 oder mMRC ≥ 2: A → B, C → D
 
 ### Therapie
 
-SABA und/oder SABA bei Bedarf.
+SABA und/oder SAMA bei Bedarf.
 
 - GOLD A: keine Dauertherapie, (ggf. wie GOLD B)
 - GOLD B: LAMA oder LABA, (ggf. beide)
@@ -52,7 +53,7 @@ Impfungen gegen Influenza und Pneumokokken!
 - SABA+SAMA:
 	- Salbutamol + Ipratropiumbromid (Combivent®)
 	- Fenoterol + Ipratropiumbromid (Berodual®, Berodualin®)
- - LABA + LAMA:
+- LABA + LAMA:
 	- Formoterol + Aclidiniumbromid (Duaklir®, Brimica Genuair®)
 - LABA + ICS:
 	- Formoterol + Beclometason (Foster®)

@@ -4,7 +4,7 @@
 
 * Fehlfunktion des „unteren Ösophagussphinkter“
 * Überproduktion von Magensäure
-* ALkoholabusus
+* Alkoholabusus
 * Nikotinabusus
 
 Diagnose mittels Gastroskopie + PE
@@ -12,13 +12,13 @@ Diagnose mittels Gastroskopie + PE
 # Therapie
 
 * Allgemeinmaßnamhen: Gewicht, Bett hochlagern, Rechtsseitenlage, Ernährung (abends wenig, fettarm, säurearm, keine Kohlensäure, süß meiden), etc.
-* Protonenpumpeninhibitoren (PPI) Standarddosierungen:
+* Protonenpumpeninhibitoren (**PPI**) Standarddosierungen:
 	* 40 mg Pantoprazol (Pantoloc®),	* 30 mg Lansoprazol (Agopton®),
 	* 20 mg Omeprazol (Omec®), Esomeprazol (Nexium®), Rabeprazol (Pariet® in Deutschland).
 	* *Step-Down-Therapie* (initial hohe Dosis, halbe Erhaltungsdosis) 
 * bei leichten Beschwerden (*ohne Ösophagitis*):
 	* H2-Rezeptor-Antagonisten als Säureblocker  (schwächer als PPI)
-		* Ranitidin (Ulsal®) 300 mg,
+		* **Ranitidin** (Ulsal®) 300 mg,
 		* Cimetidin (Ulcostad®) 800 mg,
 		* Famotidin (Ulcusan®) 40 mg.
 	* Antazida (Sucralfat Ulcogant®)
@@ -55,12 +55,12 @@ Definition: durchdringt mindestens Lumina muscularis mucosae, legt also Submukos
 ### Ätiologie:
 
 - Helicobakter Pylori
-- NSAR (4 × RR, **in Kombination mit Kortison 15 × RR!**); oft asymptomatisch → Blutungen
+- **NSAR** (4 × Risiko, **in Kombination mit Kortison 15 × Risiko!**); oft asymptomatisch → Blutungen
 - Stressulkus (Polytrauma, Verbrennung, große OP, etc.)
 
 ### Symptome:
 
-- *ventrikuli*: **Sofortschmerz** nach Nahrungsaufnahme- oder nahrungsunabhängig
+- Ulkus *ventrikuli*: **Sofortschmerz** nach Nahrungsaufnahme- oder nahrungsunabhängig
 - Ulkus *duodeni*: Spät/Nacht/**Nüchternschmerz**
 
 ### Therapie
@@ -95,7 +95,7 @@ Definition: durchdringt mindestens Lumina muscularis mucosae, legt also Submukos
 	- ggf. Wiederholung nach 10–15 min.
 	- in Folge evtl. 60 mg ad 500 ml Infusion
 - *Metamizol* (Novalgin®)
-	- 1 g/2ml oder 2,5 g/5ml ad 100ml NaCl (**cave: BD↘**)
+	- 1 g/2ml oder 2,5 g/5ml ad 100ml NaCl (**cave: BD ↘**)
 	
 # Gastroenteritis
 
@@ -126,10 +126,10 @@ Do-It-yourself Trinklösung[^apotheker]:
 
 > Die WHO schätzt, dass durch den Einsatz von ORS in den 1990er Jahren etwa 1 Mio. Todesfälle pro Jahr verhindert wurden.
 
-# Pseudomenmranöse Colitis
+# Pseudomembranöse Colitis
 
 > Clostridium difficile
-### Komplikationen:1. Colon-Perforation2. toxisches Megakolon3. Ileus### Therapie:1. Wasser- und Elektrolyt-Haushalt ausgleichen2. Absetzen des auslösenden AB3. Metronidazol (Anaerobex®) 3 × 500 mg p.o. oder i.v. über 10 Tage4. bei schweren Verläufen: Vancomycin 4 x 125 mg p.o. zusätzlich zu Metronidazol
+### Komplikationen:1. Colon-Perforation2. toxisches Megakolon3. Ileus### Therapie:1. Wasser- und Elektrolyt-Haushalt ausgleichen2. Absetzen des auslösenden AB3. **Metronidazol** (Anaerobex®) 3 × 500 mg p.o. oder i.v. über 10 Tage4. bei schweren Verläufen: **Vancomycin** 4 x 125 mg **p.o.** (sic!) zusätzlich zu Metronidazol
 # Reizdarmsyndrom
 Synonyme: RDS, irritable bowel syndrome, IBS
 Sehr häufig, 50%  der Pat. mit Magen-Darm-Beschwerden
@@ -180,7 +180,7 @@ Meist Sigmadivertikel (⅔ aller Fälle), meist Pseudodivertikel (Ausstülpung n
 ### Klinik
 
 - Spontanschmerz
-- Tenesmen linker Unterbauch (**„Links-Appendizitis“**)- Stuhlunregelmäßigkeiten (Diarrhoe/Obstipation), Flatulenz- druckschmerzhaft Walze im linken Unterbauch
+- Tenesmen linker Unterbauch (**„Links-Appendizitis“**)- Stuhlunregelmäßigkeiten (Diarrhoe/Obstipation), Flatulenz- **druckschmerzhafte Walze** im linken Unterbauch
 ### Komplikationen
 - gedeckte Perforation → Abszess
 - freie Perforation → Peritonitis
@@ -283,7 +283,7 @@ Meist Sigmadivertikel (⅔ aller Fälle), meist Pseudodivertikel (Ausstülpung n
 	- Budesonid (Budenofalk®, Enterocort®) 3 × 3 mg/d 
 - systematisch bei versagen der topischen Therapie
 	- Prednisolon 30–60 mg/d, stufenweise Dosisreduktion wochenweise, Erhaltungsdosis 10 mg/2d für 3–6 Monate
-	- Erfolg: „Drittelregel“
+	- Erfolg: **„Drittelregel“**
 		1. ⅓ stabile Remission
 		2. ⅓ steroidabhängig (Prednisolon-Bedarf > 20 mg/d über > 3 Monate, Rückfall bei Ausschleichen)
 		3. ⅓ benötigt Immunsupressiva
@@ -291,7 +291,7 @@ Meist Sigmadivertikel (⅔ aller Fälle), meist Pseudodivertikel (Ausstülpung n
 #### Rezidivprophylaxe
 - 30% Rezidiv innerhalb eines Jahres, 70% innerhalb von zwei Jahren
 - Prednisolon oder Mesalazin (=5-ASA, Pentasa®) *nicht* erfolgversprechend
-- ⅔ Dauerremission mit *Azathioprin* (Imurek®)
+- ⅔ Dauerremission mit **Azathioprin** (Imurek®)
 
 # Colitis Ulcerosa
 

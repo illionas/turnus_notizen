@@ -27,9 +27,9 @@ Nach der *New York Heart Association*.
 
 # med. Therapien
 
+* Betablocker
 * ACE/ARB
 * Aldosteron-Antagonisten
-* Betablocker
 * Diuretikum symptomatisch bei Ödemen
 
 ### DFP[^1]
@@ -60,6 +60,7 @@ Hinweise auf diastolische Dysfunktion, sind zB eine pathologische Relaxation bzw
 ## Therapie
 - Lifestyle! (regelmäßige Bewegung, Rauchstopp), Impfungen, Therapie der Komorbiditäten
 
+---
 
 * bei HFpEF bzw. HFmrEF keine Vrbesserung der Prognose durch med. Therapie nachgewiesen.
 * Diuretika symptomatisch
@@ -68,9 +69,9 @@ Hinweise auf diastolische Dysfunktion, sind zB eine pathologische Relaxation bzw
 
 #### HFrEF (< 40% EF) Therapie
 
-* Beta-Blocker: Carvedilol (Dilatrend®), Bisoprolol (Concor®), Metoprolol-Succinat (Seloken®) und Nebivolol (Nomexor®)
-* ACE-Hemmer: Enalapril (Renitec®) getestet, alternativ Captopril, Ramipril (Hypren®, Tritace®), Lisinopril (Acemin®), Trandolapril ().
-* ARBs: Valsartan (Diovan®), Candesartan (Atacand®, Blopress®) und Losartan (Cosaar®) getestet.
+* **Beta-Blocker:** Carvedilol (Dilatrend®), Bisoprolol (Concor®), Metoprolol-Succinat (Seloken®) und Nebivolol (Nomexor®)
+* **ACE-Hemmer:** Enalapril (Renitec®) getestet, alternativ Captopril, Ramipril (Hypren®, Tritace®), Lisinopril (Acemin®), Trandolapril ().
+* **ARBs:** Valsartan (Diovan®), Candesartan (Atacand®, Blopress®) und Losartan (Cosaar®) getestet.
 
 #### weiterhin symptomatisch und LVEF≤ 35%:
 
@@ -81,7 +82,7 @@ Mineralokortikoid-Rezeptorantagonisten (MRA) verbessern bei schwerer HI in Kombi
 
 #### weiterhin symptomatisch und LVEF≤ 35%:
   
-- Sacubitril/Valsartan (Entresto®) **statt ACE-Hemmer**
+- Sacubitril/Valsartan (**Entresto®**) **statt ACE-Hemmer**
 	- ARNI ("angiotensin receptor-neprilysin inhibitor") 
   	- Wm: Verzögerter Abbau von natriuretischen Peptiden, Bradykinin u.a. verstärkt Diurese, Natriurese, myokardiale Relaxation und Anti-Remodeling);
   	- BD sys ≥ 100mmHg, Kalium ≤ 5,2mmol/L und GFR ≥15ml/min.

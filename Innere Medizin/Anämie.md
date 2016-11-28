@@ -18,9 +18,9 @@ Eisen ↓, Ferritin ↑: anaemia of chronic disease (ACD) bei Entzündung, Infek
 ## Eisenmangelanämie
 
 - prälatenter Eisenmangel:
-	- Ferritin ↓, löslicher Transferinrezeptor (sTfR) ↑
+	- **Ferritin ↓**, löslicher Transferinrezeptor (sTfR) ↑
 - funktioneller Eisenmangel:
-	- Transferrin ↑, Transferrinsättigung ↓
+	- **Transferrin ↑**, Transferrinsättigung ↓
 - manifester Eisenmangel = Eisenmangelanämie:
 	- Hb ↓, Ery ↓, Hkt ↓
 	
@@ -35,6 +35,6 @@ Mangel an:
 - Gastroskopie → Typ A Gastritis
 Evtl. Schilling-Test.
 # Renale Anämie
-> hyporegeneratorische (Reti ↓) normochrom normozytäre (MCH ⟂, MCV ⟂) Anämie bei chronischer Niereninsuffizienz
+> **hyporegeneratorische (Reti ↓)** normochrom normozytäre (MCH ⟂, MCV ⟂) Anämie bei chronischer Niereninsuffizienz
 durch Erythropoetinmangel (EPO ↓).### Therapie
 z. B. Darbepoetin alfa (Aranesp®)

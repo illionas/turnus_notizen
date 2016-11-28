@@ -6,7 +6,7 @@ tonisch-klonischer Krampfanfall > 5min oder kein vollständiges Abklingen zwisch
 
 ### Therapie
 
-- Lorazepa (Temesta®) 4mg (max. 0,1 mg/kg KG) i.v. *oder*
+- Lorazepam (Temesta®) 4mg (max. 0,1 mg/kg KG) i.v. *oder*
 - Diazepam (Gewacalm®) 10-20mg (max. 30 mg) i.v., *alternativ*
 - Clonazepam (max. 3 mg).
 

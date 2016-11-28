@@ -4,9 +4,18 @@
 
 # Rheumatoide Arthritis
 
-Synonym: Chronische Polyarthritis (CP)
+> Synonym: Chronische Polyarthritis (CP)
 
-Diagnose anhand von [ACR-/EULAR-Kriterien 2010](http://www.chronisch-entzuendliche-erkrankungen.de/rheumatoide-arthritis-acr-eular-klassifikationskriterien/) → Anzahl Gelenke, Antikörper, Entzündungsparameter und Dauer (≥ 6 Wochen).
+#### ACR-/EULAR-Kriterien 2010
+
+Siehe [www.chronisch-entzuendliche-erkrankungen.de][ACR-/EULAR-Kriterien 2010]:
+
+-  Anzahl Gelenke
+-  Antikörper
+-  Entzündungsparameter
+-  Dauer (≥ 6 Wochen)
+
+[ACR-/EULAR-Kriterien 2010]: http://www.chronisch-entzuendliche-erkrankungen.de/rheumatoide-arthritis-acr-eular-klassifikationskriterien/
 
 #### Gelenke: 
 - MCPs
@@ -32,7 +41,7 @@ Diagnose anhand von [ACR-/EULAR-Kriterien 2010](http://www.chronisch-entzuendlic
 
 ----
 
-- 90 % HLA-B27 positiv → Familienanamnese
+- 90 % **HLA-B27** positiv → Familienanamnese
 - im Schub BSG ↑ und CRP ↑
 - Röntgen WS, ISG- MRT (Spondylodiszitis) und für die Frühdiagnose (Rö: erst nach 8 J. Sakroileitis sichtbar)
 ### Therapie
@@ -43,12 +52,13 @@ Diagnose anhand von [ACR-/EULAR-Kriterien 2010](http://www.chronisch-entzuendlic
 
 # Reaktive Arthritis
 
-Herold, S. 640
+`Herold, S. 640`
 
-Syn: postinfektiöse Arthritiden = Reiter Syndrom- 2–6 Wochen nach einem enteritischen oder urethritischen Infekt- Reiter-Syndrom – Trias:	1. **Konjunktivitis** (*“can't see”*)	2. **Urethritis** (*“can't pee”*)	3. **Arthritis** (*“can't climb a tree”*); asymmetrisch, wandernde Oligoarthritis (bevorzugt UE, auch Daktylitis)
+> Synonym: postinfektiöse Arthritiden = **Reiter Syndrom**- 2–6 Wochen nach einem enteritischen oder urethritischen Infekt- Reiter-Syndrom – Trias:	1. **Konjunktivitis** (*“can't see”*)	2. **Urethritis** (*“can't pee”*)	3. **Arthritis** (*“can't climb a tree”*); asymmetrisch, wandernde Oligoarthritis (bevorzugt UE, auch Daktylitis)
 - Reiter-Dermatose (Balanitis circinata, psoriasiforme Hautveränderungen)
 
-### Labor:1. BSG, CRP,2. HLA-B27, RF negativ3. Erreger-Nachweis aus Serum, Harn oder Stuhl
+### Labor:1. BSG, CRP,2. HLA-B27
+3. RF negativ4. Erreger-Nachweis aus Serum, Harn oder Stuhl
 ### Therapie:1. Doxycyclin oder Makrolide (Erythromycin oder Clarithromycin (Klacid®))2. Physikalische Therapie: Kühlen, Schonen, Hochlagern, Ruhigstellen3. NSAR4. Glukokortikoide (bei Iridozyklitis)
 # Heberden Arthrose
 
@@ -61,14 +71,14 @@ Syn: postinfektiöse Arthritiden = Reiter Syndrom- 2–6 Wochen nach einem ent
 
 asymmetr. Befall, Haut
 
-# Polymyalgie Rheumatisch
+# Polymyalgia rheumatica
 
 - Leitsymptom **symmetrische** Schmerzen der **proximalen Extremitätenmuskulatur** (Hüftmuskulatur, Schultermuskulatur, Nackenmuskulatur)
 - charakteristischerweise **nachts**
 
 ### Labor
 
-- BSG exzessiv ↑ (> 50 mm erste Stunde)
+- BSG exzessiv ↑↑ (> 50 mm erste Stunde)
 
 ### Therapie
 

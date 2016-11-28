@@ -203,4 +203,19 @@ Besachwaltung, Übergangspflege, Pflegeheimantrag
 - BB, CRP# Arm blass> Patientin hat plötzlich starke Schmerzen im rechten Arm, Untersuchung zeigt den Arm blass, kühl, die Sensibilität wird seitengleich angegeben:Verdachtsdiagnose (1)Mit welcher einfachen Untersuchung können sie dies bestätigen?Akuttherapie?
 - akuter Gefäßverschluss- Puls tasten, Gefäß-Doppler# Malignom/Klimakterium> Malignom/Klimakterium?!
 # Singultus> Singultus:Medikament. Therapie (3)Ursachen (4, außer Tumor)
-> Aktivierte Gonarthrose> Hämophilie B Kind hat sich Knie angeschlagen, nun massiven Bluterguss; Beugung jedoch uneingeschränkt möglich:Um was handelt es sich am ehesten? Mutter bittet Sie, das Medikament für Hämoph., welches das Kind sonst immer im Rahmen eines stat. Aufenthaltes erhält, in der Ordination zu verabreichen, tun Sie es?Welche Schmerzmittel dürfen Sie nicht geben? (2)
+
+### Ätiologie
+
+- Phrenicus-irritation
+- MS
+- psychisch
+- Medikamente
+### Therapie
+- Metoclopramid
+- Haldol
+- Dexamethason
+- Antikonvulsiva, Muskelrelaxanzien# Aktivierte Gonarthrose> Aktivierte Gonarthrose
+Tumor, Rubor, Calor, Dolor, funktio laesia
+## Therapie der aktivierten Arthrose- NSAR- intraartikuläre Glukokortikoide- Kryotherapie# Hämophilie B> Hämophilie B Kind hat sich Knie angeschlagen, nun massiven Bluterguss; Beugung jedoch uneingeschränkt möglich:Um was handelt es sich am ehesten? Mutter bittet Sie, das Medikament für Hämoph., welches das Kind sonst immer im Rahmen eines stat. Aufenthaltes erhält, in der Ordination zu verabreichen, tun Sie es?Welche Schmerzmittel dürfen Sie nicht geben? (2)
+Hämophilie A „a“cht → Faktor-8-Mangel; Hämophilie B → Faktor B Mangel
+- Substitution der Faktoren- Hemmkörper-Hämophilie (bes. bei B) → Neutralisiert substituierte Faktoren- ASS kontraindiziert (Reye-Syndrom, Hämophilie)

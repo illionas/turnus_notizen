@@ -1,13 +1,12 @@
 # Glomerulonephritis
 
-Trias:
-
+#### Trias
 - Lidödem
 - Mikrohämaturie
 - Proteinurie
 
 stationär → Biopsie
 
-cave: rasch progrediente Glomerulonephritis (RPGN)
+**cave:** rasch progrediente Glomerulonephritis (RPGN)
 
 Blutdruck einstellen.

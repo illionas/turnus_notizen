@@ -2,28 +2,21 @@
 
 ** WIRD NOCH IN UNTERKAPITEL GEGLIEDERT **
 
-## Blutgass, BGA, Astrup
+## Blutgas
 
-pH 7,36 - 7,44
+> BGA, Astrup
 
-ven. pCO2 36-50 (= art pCO2 + 6)
-ven. pO2 36-44
-
-art. pCO2 36-44
-art. pO2 75-100
+|           |                        |
+|-----------|------------------------|
+| pH        | 7,36–7,44            |
+| ven. pCO2 | 36-50 (= art pCO2 + 6) |
+| ven. pO2  | 36-44                  |
+| art. pCO2 | 36-44                  |
+| art. pO2  | 75-100                 |
 
 Calcium am Astrup x2 rechnen!
 Hypokalziämie kann durch Hypoalbuminämie bedingt sein.
 
-
-## Herzinsuffizienz
-
-### chronische
-#### med. Therapien
-* ACE/ARB
-* Aldosteron-Antagonisten
-* Betablocker
-* Diuretikum symptomatisch bei Ödemen
 
 ## Blutkonserve
 
@@ -149,7 +142,7 @@ keine RL-Infusionen
 
 ## chronisch stabile Angina Pectoris (AP)
 
-Dancor(R) (=Nicorandil) 10mg 1-0-1 (gut angiologisch wirksam)
+Dancor( (=Nicorandil) 10mg 1-0-1 (gut angiologisch wirksam)
 
 ## Migräne
 

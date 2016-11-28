@@ -20,7 +20,7 @@
 ## Hepatitis A
 
 
-- Anti-**HAV IgM**: akute Hepatitis A
+- **Anti-HAV IgM**: akute Hepatitis A
 - Anti-HAV IgG: abgelaufener Hepatitis A, Immunität
 
 
@@ -37,11 +37,11 @@
 ## Hepatitis C
 
 abgelaufene Hep C Infektion schützt nicht vor Re-Infektion (keine bleibende Immunität!)- 6 Genotypen, Mehrfachinfektionen möglich (über 100 Subtypen)
-- Therapie: Peginterferon + Ribavirin + Proteaseinhibitor- Genotyp 2, 3: 24 Wochen (Kontrolle nach 6 Monaten).- Genotyp 1, 4, 5, 6 bis zu 48 (72) Wochen- Chronifizierung in 75%- Langzeitfolgen: Leberzirrhose (30%) und primäres Leberzellkarzinom HCC (25%),Leberfunktionseinschränkung
+- Therapie: **Peginterferon + Ribavirin + Proteaseinhibitor**- Genotyp 2, 3: 24 Wochen (Kontrolle nach 6 Monaten).- Genotyp 1, 4, 5, 6 bis zu 48 (72) Wochen- Chronifizierung in 75%- Langzeitfolgen: **Leberzirrhose** (30%) und **primäres Leberzellkarzinom** HCC (25%),Leberfunktionseinschränkung
 <!-- neue Therapien? -->
 ### Serologie
 
-- Anti-HCV: Screening auf Hepatitis C, keine Unterscheidung ob ausgeheilt oder chronisch
+- **Anti-HCV**: **Screening** auf Hepatitis C, keine Unterscheidung ob ausgeheilt oder chronisch
 - HCV-RNA: aktive Infektion, quantitativ: „Viruslast“.
 
 # Leberzirrhose
@@ -68,7 +68,7 @@ häufig vergesellschaftet mit dem metabolischen Syndrom
 |------------------------------------|--------------|----------|
 | Serumalbumin in g/dl               | <3,5         | <2,8     |
 | Bilirubin in mg/dl                 | >2,0         | >3,0     |
-| Quick-Wert (%)                     | <70          | <40      |
+| Quick-Wert/PTZ (%)                 | <70          | <40      |
 | Aszites in der Sonographie         | mittelgradig | massiv   |
 | Grad der Enzephalopathie           | I–II         | III–IV   |
 
@@ -83,7 +83,7 @@ häufig vergesellschaftet mit dem metabolischen Syndrom
 
 ## Komplikationen
 
-1. Oesophagusvarizenblutung durch die portale Hypertension2. Hepatische Enzephalopathie mit Leberausfall-Koma
+1. Oesophagusvarizenblutung ← portale Hypertension2. Hepatische Enzephalopathie mit Leberausfall-Koma
 
 # Hepatozelluläres Karzinom (HCC)
 
@@ -100,7 +100,7 @@ häufig vergesellschaftet mit dem metabolischen Syndrom
 
 ### Diagnose
 
-- Alphafetoprotein (AFP)
+- Alphafetoprotein (**AFP**)
 - Sono
 - CT, MRT
 
@@ -108,7 +108,7 @@ Bei Leberzirrhose *alle 6 Monate Screening mit AFP und Sono*.
 
 ### Prognose
 
-- 5-Jahresüberleben bei kursiver Zielsetzung:
+- 5-Jahresüberleben bei kurativer Zielsetzung:
 	- Teilresektion oder lokoregionäre Therapie 20–50%,
 	- bei Transplantation bis 70%.
 - Mediales Überleben bei palliativer Chemotherapie 6–12 Monate

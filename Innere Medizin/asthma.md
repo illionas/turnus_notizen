@@ -2,8 +2,12 @@
 
 <!-- aus TA-Skriptum2010-2.pdf -->
 
-- Stadium I: kurz wirksame β2-Sympathomimetika (Sultanol, Bricanyl)- Stadium II: β2-Sympathom. + inhalative Glucocorticoide (Pulmicort)- Stadium III: inhalative Glucocorticoide + langwirksame β2-Sympathomimetika (Foradil, Oxis)- Stadium IV: + Glucocorticoide systemisch, Leukotrienantagonisten (Montelukast = Singulair) ab St. II
-## Kinder
+- Stadium I: SABA- Stadium II: SABA + ICS, Leukotrienantagonisten (Montelukast = Singulair)- Stadium III: LABA + ICS- Stadium IV: + Glucocorticoide systemisch
+
+---
+- Intervall zwischen Episoden < 2 Monate → Stadium II
+- An mehreren Tagen/Woche und auch nächtliche Symptome → Stadium III
+- Anhaltende Symptome am Tag → Stadium IV## Kinder
 Triggerfaktoren: Infekte, Allergene (Pollen, Hausstaubmilbe, Tierepithelien, Katzenspeichel), Kälte, Anstrengung (exercise-induced asthma), psychische Belastung.
 Ödem der Mukosa, Spasmus der Bronchialmuskulatur
 8-10% aller Kinder, häufigste (!) chronische Erkrankung im Kindesalter
