@@ -2,7 +2,7 @@
 
 > Myocardinfarkt
 
-## Anatomie
+### Anatomie
 
 - RCA: right coronary artery
 - LCA : left coronary artery
@@ -28,12 +28,12 @@
 #### symptomatisch
 
  * Analgetika
- 	- Morphin (Vendal®) 10 mg (fraktioniert 1 mg-weise) *oder*
+ 	- **Morphin** (Vendal®) 10 mg (fraktioniert 1 mg-weise) *oder*
  	- Fentanyl 0,05–0,10 mg
  	- Metoclopramid gegen Opiat-induzierte Übelkeit
  	- *cave:* Atemdepression
  * Sedierung
- 	- Diazepam (Valium®) falls stark agitiert
+ 	- Diazepam (Valium®, kreislaufneutral) falls stark agitiert
  	- *cave:* Atemdepression
 * Sauerstoff
 
@@ -52,17 +52,19 @@
 #### anti-thrombotisch
 
 * COX-Hemmung
-	- **ASS** (Aspirin®, Aspisol®) 300–500 mg p.o. (zerbeißen lassen, i.v. kaum nötig)
+	- **ASS** (Aspirin®, Aspisol®) 300–**500 mg** p.o. (zerbeißen lassen, i.v. kaum nötig)
 * ADP-Rezeptorblocker
-	- **Clopidogrel** (Plavix®) p.o.
-		- *300 mg bei Lyse* **„one fits all“**
+	- **Clopidogrel (Plavix®)**
+		- ***300 mg** bei Lyse* → **“one fits all”**
 		- 600 mg bei primär-PCI
 		- kein Loading > 75 Jahre
 	- Prasugrel (Efient®)
 		- Kontraindikation: **Lyse**, > 75 Jahre
+		- 60 mg loading dose, dann 10 mg/d
 	- Ticagrelor (Brilique®)
+	    - 180 mg loading dose, dann 2 × 90 mg/d
 * Gerinnungshemmung
-	- **Heparin** 60 IE/kg bei Lyse, *~ 4.000 IE i.v.* **„one fits all“**
+	- **Heparin** 60 IE/kg bei Lyse, *~ **4.000 IE** i.v.* → **“one fits all”**
 	- Bivalirudin (Angiox®) *bei primär-PCI empfohlen*
 	- Enoxaparin (Lovenox®) 30 mg i.v. + 1 mg/kg s.c. (max. 100 mg)
 
@@ -71,13 +73,14 @@
 * IND: bei **STEMI** < 12 Stunden
 * **“golden hour” 2–3 Stunden**
 * Thrombolyse
-	- bei frischen Infarkten (ca. < 2 Stunden)
+	- bei frischen Infarkten (ca. < 2 Stunden) → hoher Benefit!
+	- bei gravierendem Verlauf (Schock, Lungenödem)
 	- Kontraindikationen: Z.n. Hirnblutung, OP < 14 Tage, Organpunktion < 7 Tage, Insult < 3 Monate, rezenter Ulcus, Blutungsneigung, Marcoumar®
 * primär PCI
 	- bei rascher Verfügbarkeit
 	- älteren Infarkten (ca. > 2 Stunden)
 * Kombinationen
-	- “pharmaco-invasive approach”: Lyse, gleich ad Zentrum: dort PCI-Zeitpunkt je nach Lyse-Erfolg
+	- “pharmaco-invasive approach”: Lyse, gleich ad Zentrum: dort verzögerte PCI bei Lyse-Erfolg
 
 ### Komplikationen
 
@@ -91,6 +94,20 @@
 #### Spätkomplikationen
 
 * Herzwandaneurysma (bis 20 %)
+
+
+## instabile AP & Non-STEMI
+
+- weniger vegetative Symptomatik als STEMI
+- instabile AP typischerweis durch Nitro beeinflussbar
+
+#### Abweichungen von STEMI-Therapie
+
+- NMH eher Vorzug geben
+    - Fragmin® 2 ×/d 120 E/kg
+    - Lovenox® 2 ×/d 1 mg/kg
+- keine Lyse-Indikation
+    - außer begründeter Verdacht CX-Infarkt
 
 # Bypass
 

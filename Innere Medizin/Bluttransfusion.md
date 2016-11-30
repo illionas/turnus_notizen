@@ -49,3 +49,4 @@ Mangelhafte oder fehlende Dokumentation ist einfachster juristischer Angriffspun
 - indirektes Bilirubin
 - Kalium (bei massiver Hämolyse)
 - freies Hämoglobin im Serum
+
