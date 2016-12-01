@@ -1,5 +1,11 @@
 ## COPD
 
+> ## Zusammenfassung
+- GOLD 1,2,3,4: FEV1 ≥ 80 %, < 80 %, < 50 %, < 30 %
+- alle: SABA und/oder SABA bei Bedarf.
+- GOLD 3+4 oder ≥ 2 Exacerbationen in 12 Monaten: GOLD C (LABA+ICS: Seretide), sonst GOLD A (keine Dauertherapie)
+- Syptomatik (CAT ≥ 10 oder mMRC ≥ 2): A → B (LAMA: Spiriva, LABA: Serevent, LAMA+LABA: Duaklir®), C → D (LAMA: Serevent + LABA+ICS: Seretide)
+
 > Chronische obstruktive Lungenerkrankung (COPD)
 
 1. chronische Bronchitis: Auswurf zumindest 3 Monate lang in 2 aufeinander folgenden Jahren
