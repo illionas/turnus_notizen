@@ -1,5 +1,9 @@
 # Linksammlung
 
+## diverses
+
+* von der Cleveland Clinic, beinhaltet allgemeines und Drug info: http://chemocare.com/
+
 ## Scripten
 
 * [Neuroscript.com](http://neuroscript.com/wordpress/) Geschrieben von Dr. Wolfgang Kubik (Facharzt für Neurologie, Ärztlicher Leiter der REHA Bad Radkersburg, Österreich)
