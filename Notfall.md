@@ -130,3 +130,43 @@ Quelle: [https://www.acep.org/content.aspx?id=33992 Think L-E-M-O-N When Assessi
 
 mg/kg/h
 
+
+# 4H
+
+- Hypoxie
+- Hypovolämie
+- Hypothermie
+- Hypo- bzw. Hyperkaliämie
+
+# HITS
+
+- Herzbeuteltamponade
+- Intoxikation
+- Thrombembolie
+- Spannungspneumothorax
+
+# deadly dozen
+
+beim thoraxtrauma
+
+## Lethal Six
+
+akut lebensbedrohlich
+
+1. Atemwegsverlegung
+2. Spannungspneumothroax
+3. offener Pneumothorax
+4. massiver Hämatothorax
+5. Herzbeuteltamponade
+6. Instabiler Thorax (“flail chest” → paradoxe Atmung)
+ 
+## Hidden Six
+
+potentiell lebensbedrohlich → sollten bei "secondary survey" entdeckt werden.
+
+1. thorakale Aortendissektion
+2. tracheobronchiale Ruptur <!-- tracheobronchial disruption -->
+3. Herzkontusion
+4. Zwerchfellruptur
+5. Ösophagusruptur
+6. Lungenkontusion
