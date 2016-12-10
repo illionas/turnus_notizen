@@ -1,5 +1,6 @@
 ## COPD
 
+<!-- rezent hinzugefügt: -->
 > ## Zusammenfassung
 - GOLD 1,2,3,4: FEV1 ≥ 80 %, < 80 %, < 50 %, < 30 %
 - alle: SABA und/oder SABA bei Bedarf.
