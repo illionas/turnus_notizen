@@ -13,7 +13,8 @@ Diagnose mittels Gastroskopie + PE
 
 * Allgemeinmaßnamhen: Gewicht, Bett hochlagern, Rechtsseitenlage, Ernährung (abends wenig, fettarm, säurearm, keine Kohlensäure, süß meiden), etc.
 * Protonenpumpeninhibitoren (**PPI**) Standarddosierungen:
-	* 40 mg Pantoprazol (Pantoloc®),	* 30 mg Lansoprazol (Agopton®),
+	* 40 mg Pantoprazol (Pantoloc®),
+	* 30 mg Lansoprazol (Agopton®),
 	* 20 mg Omeprazol (Omec®), Esomeprazol (Nexium®), Rabeprazol (Pariet® in Deutschland).
 	* *Step-Down-Therapie* (initial hohe Dosis, halbe Erhaltungsdosis) 
 * bei leichten Beschwerden (*ohne Ösophagitis*):
@@ -34,15 +35,15 @@ Diagnose mittels Gastroskopie + PE
 
 ### Tripple-Therapie
 
-- **französische** Tripple-Therapie „PCA“ (7–14 Tage) – *1. Wahl*
+- **französische** Tripple-Therapie „CA_P“ (7–14 Tage) – *1. Wahl*
 	1. *PPI* 2 × Standarddosierung
 	2. *Clarithromycin* 2 × 500 mg/d (Klacid®)
 	3. *Amoxicillin* 2 × 1000 mg/d (Ospamox®)
-- **italienische** Tripple-Therapie „PCM“ (7–14 Tage)
+- **italienische** Tripple-Therapie „C_MP“ (7–14 Tage)
 	1. *PPI* 2 × Standarddosierung
 	2. *Clarithromycin* 2 × 250–500 mg/d (Klacid®)
 	3. *Metronidazol* 2 × 400–500 mg/d (Anaerobex®) – H.p. zu 30–50% resistent
-- kombinierte PCAM (7 Tage)
+- kombiniert: „CAMP" (7 Tage)
 	- Bei hoher Wahrscheinlichkeit für eine primäre Clarithromycin-Resistenz
 	- (mit Clarithromycin 2 × 500 mg/d)
 	
@@ -101,15 +102,27 @@ Definition: durchdringt mindestens Lumina muscularis mucosae, legt also Submukos
 
 ### Anamnese
 
-1. OPQRST (Dauer, Frequenz, Konsistenz, Volumen, Farbe, Beimengungen (Blut,Schleim), begleitende Abdominalschmerzen, Diarrhö bei Nahrungsaufnahme/Fasten? Diarrhoe auch nachts?)
-2. Auslandsaufenthalt3. rohe oder verdorbene Nahrungsmittel, Kantinenessen4. Immunsuppression, rezente Antibiotika-Therapie
-5. Blutauflagerung, Schleim6. Inspektion der Stühle: wässrig, schaumig, hell, dunkel, fettglänzend, voluminös, übel riechend7. Nahrungsmittelallergien, Intoleranzen
+1. OPQRST (Dauer, Frequenz, Konsistenz, Volumen, Farbe, Beimengungen (Blut,
+Schleim), begleitende Abdominalschmerzen, Diarrhö bei Nahrungsaufnahme/Fasten? Diarrhoe auch nachts?)
+2. Auslandsaufenthalt
+3. rohe oder verdorbene Nahrungsmittel, Kantinenessen
+4. Immunsuppression, rezente Antibiotika-Therapie
+5. Blutauflagerung, Schleim
+6. Inspektion der Stühle: wässrig, schaumig, hell, dunkel, fettglänzend, voluminös, übel riechend
+7. Nahrungsmittelallergien, Intoleranzen
 
 ### Therapie
 
 1. reichlich Flüssigkeitszufuhr, schluckweise, kalt
-2. Elekrolytsubstitution2. Nahrungskarenz, Zwieback und Tee3. Yomogi®, Omniflora®, Antibiophilus®4. *Metoclopramid* (Paspertin®)5. *Butylscopolamin* (Buscopan®) bei krampfartigen Bauchschmerzen6. Antibiotika bei sehr schwerem Verlauf
-#### Oral Rehydration Solution
+2. Elekrolytsubstitution
+2. Nahrungskarenz, Zwieback und Tee
+3. Yomogi®, Omniflora®, Antibiophilus®
+4. *Metoclopramid* (Paspertin®)
+5. *Butylscopolamin* (Buscopan®) bei krampfartigen Bauchschmerzen
+6. Antibiotika bei sehr schwerem Verlauf
+
+
+#### Oral Rehydration Solution
 
 *Synonyme: ORS, Oral Rehydration Salt, WHO-Trinklösung*
 
@@ -129,10 +142,24 @@ Do-It-yourself Trinklösung[^apotheker]:
 # Pseudomembranöse Colitis
 
 > Clostridium difficile
-### Komplikationen:1. Colon-Perforation2. toxisches Megakolon3. Ileus### Therapie:1. Wasser- und Elektrolyt-Haushalt ausgleichen2. Absetzen des auslösenden AB3. **Metronidazol** (Anaerobex®) 3 × 500 mg p.o. oder i.v. über 10 Tage4. bei schweren Verläufen: **Vancomycin** 4 x 125 mg **p.o.** (sic!) zusätzlich zu Metronidazol
-# Reizdarmsyndrom
-Synonyme: RDS, irritable bowel syndrome, IBS
-Sehr häufig, 50%  der Pat. mit Magen-Darm-Beschwerden
+
+### Komplikationen:
+1. Colon-Perforation
+2. toxisches Megakolon
+3. Ileus
+
+### Therapie:
+1. Wasser- und Elektrolyt-Haushalt ausgleichen
+2. Absetzen des auslösenden AB
+3. **Metronidazol** (Anaerobex®) 3 × 500 mg p.o. oder i.v. über 10 Tage
+4. bei schweren Verläufen: **Vancomycin** 4 x 125 mg **p.o.** (sic!) zusätzlich zu Metronidazol
+
+
+# Reizdarmsyndrom
+
+Synonyme: RDS, irritable bowel syndrome, IBS
+
+Sehr häufig, 50%  der Pat. mit Magen-Darm-Beschwerden
 
 Labor **normal** (inklusive BB, CRP, BSG, LFP, Amylase/Lipase, Hämoccult, Calprotectin, Wurmeier).
 
@@ -180,9 +207,14 @@ Meist Sigmadivertikel (⅔ aller Fälle), meist Pseudodivertikel (Ausstülpung n
 ### Klinik
 
 - Spontanschmerz
-- Tenesmen linker Unterbauch (**„Links-Appendizitis“**)- Stuhlunregelmäßigkeiten (Diarrhoe/Obstipation), Flatulenz- **druckschmerzhafte Walze** im linken Unterbauch
-### Komplikationen
-- gedeckte Perforation → Abszess
+- Tenesmen linker Unterbauch (**„Links-Appendizitis“**)
+- Stuhlunregelmäßigkeiten (Diarrhoe/Obstipation), Flatulenz
+- **druckschmerzhafte Walze** im linken Unterbauch
+
+
+### Komplikationen
+
+- gedeckte Perforation → Abszess
 - freie Perforation → Peritonitis
 - Stenose → Ileus
 - Blutungen
@@ -223,9 +255,14 @@ Meist Sigmadivertikel (⅔ aller Fälle), meist Pseudodivertikel (Ausstülpung n
 
 ### Therapie
 
-1. Stuhlregulation3. Lidocain Gel gegen die Schmerzen4. Scheriproct® supp (Prednisolon+Cinchocain), Haedensa® Salbe5. Bepanthen® Creme vor Defäkation, Vaseline®
-# Obstipation
-### Therapie
+1. Stuhlregulation
+3. Lidocain Gel gegen die Schmerzen
+4. Scheriproct® supp (Prednisolon+Cinchocain), Haedensa® Salbe
+5. Bepanthen® Creme vor Defäkation, Vaseline®
+
+# Obstipation
+
+### Therapie
 
 - Allgemeinmaßnahmen
 	- Aufklärung
@@ -257,7 +294,8 @@ Meist Sigmadivertikel (⅔ aller Fälle), meist Pseudodivertikel (Ausstülpung n
 
 - Dünndarmbiopsie mit Histo
 	- Zottenatrophie
-	- Kryptenhyperplasie,	- intraepitheliale Vermehrung der Lymphozyten
+	- Kryptenhyperplasie,
+	- intraepitheliale Vermehrung der Lymphozyten
 - *Anti-Gliadin-Antikörper (AGA)*[^gliadin] sind sehr verdächtig auf eine Sprue
 - *Endomysium-Antikörper (EMA)*[^endomysium] sind diagnostisch beweisend, Titerhöhe zeigt Grad der Zottenatrophie  → aufwändiger Immunfluoreszenz-Test
 - *Gewebs-Transglutaminase-Antikörper (tTG)* (relevantes Antigen des Endomysiums) → standardisierter ELISA, kann anstelle von EMA bestimmt werden
@@ -267,11 +305,17 @@ Meist Sigmadivertikel (⅔ aller Fälle), meist Pseudodivertikel (Ausstülpung n
 
 ### Therapie
 
-- strenge glutenfreie Diät lebenslang (Kartoffeln, Mais, Reis, Sojabohnen…)# Morbus Crohn
-> enterocolitis Regionalis
-Definition: diskontinuierlich segmentale Entzündung, auch tiefe Wandschichten
-### Klinik
-- Abominalsschmerzen
+- strenge glutenfreie Diät lebenslang (Kartoffeln, Mais, Reis, Sojabohnen…)
+
+# Morbus Crohn
+
+> enterocolitis Regionalis
+
+Definition: diskontinuierlich segmentale Entzündung, auch tiefe Wandschichten
+
+### Klinik
+
+- Abominalsschmerzen
 - Durchfälle (meist *ohne* Blut)
 - **appendizitisartige-Symptome**: kolikartige Schmerzen rechter Unterbauch
 - leichte Temperaturen
